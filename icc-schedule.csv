@@ -1,0 +1,393 @@
+icc_match_id,match_date,match_time,home_team,away_team,match_name,tournament_name,match_type,innings_count,hawkeye_link
+2,2012-04-04,20:00,Chennai Super Kings,Mumbai Indians,ipl2012-01,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2/uds/traj
+3,2012-04-05,20:00,Kolkata Knight Riders,Delhi Daredevils,ipl2012-02,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3/uds/traj
+4,2012-04-06,16:00,Mumbai Indians,Pune Warriors India,ipl2012-03,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4/uds/traj
+5,2012-04-06,20:00,Rajasthan Royals,Kings XI Punjab,ipl2012-04,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5/uds/traj
+6,2012-04-07,16:00,Royal Challengers Bangalore,Delhi Daredevils,ipl2012-05,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/6/uds/traj
+7,2012-04-07,20:00,Deccan Chargers,Chennai Super Kings,ipl2012-06,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/7/uds/traj
+8,2012-04-08,16:00,Rajasthan Royals,Kolkata Knight Riders,ipl2012-07,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/8/uds/traj
+9,2012-04-08,20:00,Pune Warriors India,Kings XI Punjab,ipl2012-08,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/9/uds/traj
+10,2012-04-09,20:00,Deccan Chargers,Mumbai Indians,ipl2012-09,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/10/uds/traj
+11,2012-04-10,16:00,Royal Challengers Bangalore,Kolkata Knight Riders,ipl2012-10,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/11/uds/traj
+12,2012-04-10,20:00,Delhi Daredevils,Chennai Super Kings,ipl2012-11,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/12/uds/traj
+13,2012-04-11,20:00,Mumbai Indians,Rajasthan Royals,ipl2012-12,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/13/uds/traj
+15,2012-04-12,20:00,Kings XI Punjab,Pune Warriors India,ipl2012-14,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/15/uds/traj
+14,2012-04-12,16:00,Chennai Super Kings,Royal Challengers Bangalore,ipl2012-13,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/14/uds/traj
+16,2012-04-13,20:00,Kolkata Knight Riders,Rajasthan Royals,ipl2012-15,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/16/uds/traj
+17,2012-04-14,20:00,Pune Warriors India,Chennai Super Kings,ipl2012-16,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/17/uds/traj
+18,2012-04-15,16:00,Kolkata Knight Riders,Kings XI Punjab,ipl2012-17,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/18/uds/traj
+19,2012-04-15,20:00,Royal Challengers Bangalore,Rajasthan Royals,ipl2012-18,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/19/uds/traj
+20,2012-04-16,20:00,Mumbai Indians,Delhi Daredevils,ipl2012-19,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/20/uds/traj
+21,2012-04-17,16:00,Rajasthan Royals,Deccan Chargers,ipl2012-20,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/21/uds/traj
+22,2012-04-17,20:00,Royal Challengers Bangalore,Pune Warriors India,ipl2012-21,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/22/uds/traj
+23,2012-04-18,20:00,Kings XI Punjab,Kolkata Knight Riders,ipl2012-22,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/23/uds/traj
+24,2012-04-19,16:00,Delhi Daredevils,Deccan Chargers,ipl2012-23,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/24/uds/traj
+25,2012-04-19,20:00,Chennai Super Kings,Pune Warriors India,ipl2012-24,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/25/uds/traj
+26,2012-04-20,20:00,Kings XI Punjab,Royal Challengers Bangalore,ipl2012-25,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/26/uds/traj
+28,2012-04-21,20:00,Delhi Daredevils,Pune Warriors India,ipl2012-27,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/28/uds/traj
+27,2012-04-21,16:00,Chennai Super Kings,Rajasthan Royals,ipl2012-26,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/27/uds/traj
+29,2012-04-22,16:00,Mumbai Indians,Kings XI Punjab,ipl2012-28,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/29/uds/traj
+30,2012-04-22,20:00,Deccan Chargers,Kolkata Knight Riders,ipl2012-29,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/30/uds/traj
+31,2012-04-23,20:00,Rajasthan Royals,Royal Challengers Bangalore,ipl2012-30,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/31/uds/traj
+32,2012-04-24,16:00,Pune Warriors India,Delhi Daredevils,ipl2012-31,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/32/uds/traj
+33,2012-04-24,20:00,Kolkata Knight Riders,Deccan Chargers,ipl2012-32,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/33/uds/traj
+35,2012-04-25,20:00,Royal Challengers Bangalore,Chennai Super Kings,ipl2012-34,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/35/uds/traj
+34,2012-04-25,16:00,Kings XI Punjab,Mumbai Indians,ipl2012-33,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/34/uds/traj
+36,2012-04-26,20:00,Pune Warriors India,Deccan Chargers,ipl2012-35,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/36/uds/traj
+37,2012-04-27,20:00,Delhi Daredevils,Mumbai Indians,ipl2012-36,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/37/uds/traj
+38,2012-04-28,16:00,Chennai Super Kings,Kings XI Punjab,ipl2012-37,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/38/uds/traj
+39,2012-04-28,20:00,Kolkata Knight Riders,Royal Challengers Bangalore,ipl2012-38,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/39/uds/traj
+40,2012-04-29,16:00,Delhi Daredevils,Rajasthan Royals,ipl2012-39,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/40/uds/traj
+41,2012-04-29,20:00,Mumbai Indians,Deccan Chargers,ipl2012-40,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/41/uds/traj
+42,2012-04-30,20:00,Chennai Super Kings,Kolkata Knight Riders,ipl2012-41,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/42/uds/traj
+43,2012-05-01,16:00,Deccan Chargers,Pune Warriors India,ipl2012-42,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/43/uds/traj
+44,2012-05-01,20:00,Rajasthan Royals,Delhi Daredevils,ipl2012-43,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/44/uds/traj
+45,2012-05-02,20:00,Royal Challengers Bangalore,Kings XI Punjab,ipl2012-44,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/45/uds/traj
+46,2012-05-03,20:00,Pune Warriors India,Mumbai Indians,ipl2012-45,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/46/uds/traj
+47,2012-05-04,20:00,Chennai Super Kings,Deccan Chargers,ipl2012-46,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/47/uds/traj
+49,2012-05-05,20:00,Kings XI Punjab,Rajasthan Royals,ipl2012-48,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/49/uds/traj
+48,2012-05-05,16:00,Kolkata Knight Riders,Pune Warriors India,ipl2012-47,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/48/uds/traj
+50,2012-05-06,16:00,Mumbai Indians,Chennai Super Kings,ipl2012-49,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/50/uds/traj
+51,2012-05-06,20:00,Royal Challengers Bangalore,Deccan Chargers,ipl2012-50,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/51/uds/traj
+52,2012-05-07,20:00,Delhi Daredevils,Kolkata Knight Riders,ipl2012-51,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/52/uds/traj
+53,2012-05-08,16:00,Pune Warriors India,Rajasthan Royals,ipl2012-52,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/53/uds/traj
+54,2012-05-08,20:00,Deccan Chargers,Kings XI Punjab,ipl2012-53,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/54/uds/traj
+55,2012-05-09,20:00,Mumbai Indians,Royal Challengers Bangalore,ipl2012-54,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/55/uds/traj
+56,2012-05-10,16:00,Deccan Chargers,Delhi Daredevils,ipl2012-55,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/56/uds/traj
+57,2012-05-10,20:00,Rajasthan Royals,Chennai Super Kings,ipl2012-56,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/57/uds/traj
+58,2012-05-11,20:00,Pune Warriors India,Royal Challengers Bangalore,ipl2012-57,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/58/uds/traj
+60,2012-05-12,20:00,Chennai Super Kings,Delhi Daredevils,ipl2012-59,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/60/uds/traj
+59,2012-05-12,16:00,Kolkata Knight Riders,Mumbai Indians,ipl2012-58,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/59/uds/traj
+61,2012-05-13,16:00,Rajasthan Royals,Pune Warriors India,ipl2012-60,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/61/uds/traj
+62,2012-05-13,20:00,Kings XI Punjab,Deccan Chargers,ipl2012-61,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/62/uds/traj
+63,2012-05-14,16:00,Royal Challengers Bangalore,Mumbai Indians,ipl2012-62,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/63/uds/traj
+64,2012-05-14,20:00,Kolkata Knight Riders,Chennai Super Kings,ipl2012-63,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/64/uds/traj
+65,2012-05-15,20:00,Delhi Daredevils,Kings XI Punjab,ipl2012-64,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/65/uds/traj
+66,2012-05-16,20:00,Mumbai Indians,Kolkata Knight Riders,ipl2012-65,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/66/uds/traj
+67,2012-05-17,16:00,Kings XI Punjab,Chennai Super Kings,ipl2012-66,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/67/uds/traj
+68,2012-05-17,20:00,Delhi Daredevils,Royal Challengers Bangalore,ipl2012-67,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/68/uds/traj
+69,2012-05-18,20:00,Deccan Chargers,Rajasthan Royals,ipl2012-68,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/69/uds/traj
+70,2012-05-19,16:00,Kings XI Punjab,Delhi Daredevils,ipl2012-69,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/70/uds/traj
+71,2012-05-19,20:00,Pune Warriors India,Kolkata Knight Riders,ipl2012-70,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/71/uds/traj
+72,2012-05-20,16:00,Deccan Chargers,Royal Challengers Bangalore,ipl2012-71,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/72/uds/traj
+73,2012-05-20,20:00,Rajasthan Royals,Mumbai Indians,ipl2012-72,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/73/uds/traj
+74,2012-05-22,20:00,Delhi Daredevils,Kolkata Knight Riders,ipl2012-73,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/74/uds/traj
+75,2012-05-23,20:00,Mumbai Indians,Chennai Super Kings,ipl2012-74,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/75/uds/traj
+76,2012-05-25,20:00,Chennai Super Kings,Delhi Daredevils,ipl2012-75,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/76/uds/traj
+77,2012-05-27,20:00,Kolkata Knight Riders,Chennai Super Kings,ipl2012-76,ipl2012,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/77/uds/traj
+606,2013-04-03,20:00,Kolkata Knight Riders,Delhi Daredevils,ipl2013-01,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/606/uds/traj
+616,2013-04-04,20:00,Royal Challengers Bangalore,Mumbai Indians,ipl2013-02,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/616/uds/traj
+617,2013-04-05,20:00,Sunrisers Hyderabad,Pune Warriors India,ipl2013-03,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/617/uds/traj
+618,2013-04-06,16:00,Delhi Daredevils,Rajasthan Royals,ipl2013-04,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/618/uds/traj
+619,2013-04-06,20:00,Chennai Super Kings,Mumbai Indians,ipl2013-05,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/619/uds/traj
+620,2013-04-07,16:00,Pune Warriors India,Kings XI Punjab,ipl2013-06,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/620/uds/traj
+621,2013-04-07,20:00,Sunrisers Hyderabad,Royal Challengers Bangalore,ipl2013-07,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/621/uds/traj
+622,2013-04-08,20:00,Rajasthan Royals,Kolkata Knight Riders,ipl2013-08,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/622/uds/traj
+623,2013-04-09,16:00,Royal Challengers Bangalore,Sunrisers Hyderabad,ipl2013-09,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/623/uds/traj
+624,2013-04-09,20:00,Mumbai Indians,Delhi Daredevils,ipl2013-10,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/624/uds/traj
+625,2013-04-10,20:00,Kings XI Punjab,Chennai Super Kings,ipl2013-11,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/625/uds/traj
+626,2013-04-11,16:00,Royal Challengers Bangalore,Kolkata Knight Riders,ipl2013-12,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/626/uds/traj
+627,2013-04-11,20:00,Pune Warriors India,Rajasthan Royals,ipl2013-13,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/627/uds/traj
+628,2013-04-12,20:00,Delhi Daredevils,Sunrisers Hyderabad,ipl2013-14,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/628/uds/traj
+629,2013-04-13,16:00,Mumbai Indians,Pune Warriors India,ipl2013-15,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/629/uds/traj
+630,2013-04-13,20:00,Chennai Super Kings,Royal Challengers Bangalore,ipl2013-16,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/630/uds/traj
+631,2013-04-14,16:00,Kolkata Knight Riders,Sunrisers Hyderabad,ipl2013-17,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/631/uds/traj
+632,2013-04-14,20:00,Rajasthan Royals,Kings XI Punjab,ipl2013-18,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/632/uds/traj
+633,2013-04-15,20:00,Chennai Super Kings,Pune Warriors India,ipl2013-19,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/633/uds/traj
+635,2013-04-16,20:00,Royal Challengers Bangalore,Delhi Daredevils,ipl2013-21,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/635/uds/traj
+634,2013-04-16,16:00,Kings XI Punjab,Kolkata Knight Riders,ipl2013-20,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/634/uds/traj
+636,2013-04-17,16:00,Pune Warriors India,Sunrisers Hyderabad,ipl2013-22,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/636/uds/traj
+637,2013-04-17,20:00,Rajasthan Royals,Mumbai Indians,ipl2013-23,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/637/uds/traj
+638,2013-04-18,20:00,Delhi Daredevils,Chennai Super Kings,ipl2013-24,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/638/uds/traj
+639,2013-04-19,20:00,Sunrisers Hyderabad,Kings XI Punjab,ipl2013-25,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/639/uds/traj
+640,2013-04-20,16:00,Kolkata Knight Riders,Chennai Super Kings,ipl2013-26,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/640/uds/traj
+641,2013-04-20,20:00,Royal Challengers Bangalore,Rajasthan Royals,ipl2013-27,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/641/uds/traj
+642,2013-04-21,16:00,Delhi Daredevils,Mumbai Indians,ipl2013-28,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/642/uds/traj
+643,2013-04-21,20:00,Kings XI Punjab,Pune Warriors India,ipl2013-29,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/643/uds/traj
+644,2013-04-22,20:00,Chennai Super Kings,Rajasthan Royals,ipl2013-30,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/644/uds/traj
+645,2013-04-23,16:00,Royal Challengers Bangalore,Pune Warriors India,ipl2013-31,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/645/uds/traj
+646,2013-04-23,20:00,Delhi Daredevils,Kings XI Punjab,ipl2013-32,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/646/uds/traj
+647,2013-04-24,20:00,Kolkata Knight Riders,Mumbai Indians,ipl2013-33,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/647/uds/traj
+648,2013-04-25,20:00,Chennai Super Kings,Sunrisers Hyderabad,ipl2013-34,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/648/uds/traj
+649,2013-04-26,20:00,Kolkata Knight Riders,Kings XI Punjab,ipl2013-35,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/649/uds/traj
+650,2013-04-27,16:00,Rajasthan Royals,Sunrisers Hyderabad,ipl2013-36,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/650/uds/traj
+652,2013-04-27,20:00,Mumbai Indians,Royal Challengers Bangalore,ipl2013-37,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/652/uds/traj
+653,2013-04-28,16:00,Chennai Super Kings,Kolkata Knight Riders,ipl2013-38,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/653/uds/traj
+654,2013-04-28,20:00,Delhi Daredevils,Pune Warriors India,ipl2013-39,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/654/uds/traj
+655,2013-04-29,16:00,Rajasthan Royals,Royal Challengers Bangalore,ipl2013-40,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/655/uds/traj
+656,2013-04-29,20:00,Mumbai Indians,Kings XI Punjab,ipl2013-41,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/656/uds/traj
+657,2013-04-30,20:00,Pune Warriors India,Chennai Super Kings,ipl2013-42,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/657/uds/traj
+659,2013-05-01,20:00,Delhi Daredevils,Kolkata Knight Riders,ipl2013-44,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/659/uds/traj
+658,2013-05-01,16:00,Sunrisers Hyderabad,Mumbai Indians,ipl2013-43,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/658/uds/traj
+660,2013-05-02,16:00,Chennai Super Kings,Kings XI Punjab,ipl2013-45,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/660/uds/traj
+661,2013-05-02,20:00,Pune Warriors India,Royal Challengers Bangalore,ipl2013-46,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/661/uds/traj
+662,2013-05-03,20:00,Kolkata Knight Riders,Rajasthan Royals,ipl2013-47,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/662/uds/traj
+663,2013-05-04,20:00,Sunrisers Hyderabad,Delhi Daredevils,ipl2013-48,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/663/uds/traj
+664,2013-05-05,16:00,Mumbai Indians,Chennai Super Kings,ipl2013-49,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/664/uds/traj
+665,2013-05-05,20:00,Rajasthan Royals,Pune Warriors India,ipl2013-50,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/665/uds/traj
+666,2013-05-06,20:00,Kings XI Punjab,Royal Challengers Bangalore,ipl2013-51,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/666/uds/traj
+667,2013-05-07,16:00,Rajasthan Royals,Delhi Daredevils,ipl2013-52,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/667/uds/traj
+668,2013-05-07,20:00,Mumbai Indians,Kolkata Knight Riders,ipl2013-53,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/668/uds/traj
+669,2013-05-08,20:00,Sunrisers Hyderabad,Chennai Super Kings,ipl2013-54,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/669/uds/traj
+670,2013-05-09,16:00,Kings XI Punjab,Rajasthan Royals,ipl2013-55,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/670/uds/traj
+671,2013-05-09,20:00,Pune Warriors India,Kolkata Knight Riders,ipl2013-56,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/671/uds/traj
+672,2013-05-10,20:00,Delhi Daredevils,Royal Challengers Bangalore,ipl2013-57,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/672/uds/traj
+673,2013-05-11,16:00,Pune Warriors India,Mumbai Indians,ipl2013-58,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/673/uds/traj
+674,2013-05-11,20:00,Kings XI Punjab,Sunrisers Hyderabad,ipl2013-59,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/674/uds/traj
+676,2013-05-12,20:00,Rajasthan Royals,Chennai Super Kings,ipl2013-61,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/676/uds/traj
+675,2013-05-12,16:00,Kolkata Knight Riders,Royal Challengers Bangalore,ipl2013-60,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/675/uds/traj
+677,2013-05-13,20:00,Mumbai Indians,Sunrisers Hyderabad,ipl2013-62,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/677/uds/traj
+679,2013-05-14,20:00,Chennai Super Kings,Delhi Daredevils,ipl2013-64,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/679/uds/traj
+678,2013-05-14,16:00,Royal Challengers Bangalore,Kings XI Punjab,ipl2013-63,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/678/uds/traj
+681,2013-05-15,20:00,Mumbai Indians,Rajasthan Royals,ipl2013-66,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/681/uds/traj
+680,2013-05-15,16:00,Kolkata Knight Riders,Pune Warriors India,ipl2013-65,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/680/uds/traj
+682,2013-05-16,20:00,Kings XI Punjab,Delhi Daredevils,ipl2013-67,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/682/uds/traj
+683,2013-05-17,20:00,Sunrisers Hyderabad,Rajasthan Royals,ipl2013-68,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/683/uds/traj
+684,2013-05-18,16:00,Kings XI Punjab,Mumbai Indians,ipl2013-69,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/684/uds/traj
+685,2013-05-18,20:00,Royal Challengers Bangalore,Chennai Super Kings,ipl2013-70,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/685/uds/traj
+686,2013-05-19,16:00,Pune Warriors India,Delhi Daredevils,ipl2013-71,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/686/uds/traj
+687,2013-05-19,20:00,Sunrisers Hyderabad,Kolkata Knight Riders,ipl2013-72,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/687/uds/traj
+688,2013-05-21,20:00,Chennai Super Kings,Mumbai Indians,ipl2013-73,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/688/uds/traj
+689,2013-05-22,20:00,Rajasthan Royals,Sunrisers Hyderabad,ipl2013-74,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/689/uds/traj
+691,2013-05-24,20:00,Rajasthan Royals,Mumbai Indians,ipl2013-75,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/691/uds/traj
+692,2013-05-26,20:00,Chennai Super Kings,Mumbai Indians,ipl2013-76,ipl2013,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/692/uds/traj
+2424,2014-04-16,18:30,Mumbai Indians,Kolkata Knight Riders,ipl2014-01,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2424/uds/traj
+2425,2014-04-17,18:30,Delhi Daredevils,Royal Challengers Bangalore,ipl2014-02,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2425/uds/traj
+2427,2014-04-18,18:30,Sunrisers Hyderabad,Rajasthan Royals,ipl2014-04,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2427/uds/traj
+2426,2014-04-18,14:30,Chennai Super Kings,Kings XI Punjab,ipl2014-03,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2426/uds/traj
+2429,2014-04-19,18:30,Kolkata Knight Riders,Delhi Daredevils,ipl2014-06,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2429/uds/traj
+2428,2014-04-19,14:30,Royal Challengers Bangalore,Mumbai Indians,ipl2014-05,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2428/uds/traj
+2430,2014-04-20,18:30,Rajasthan Royals,Kings XI Punjab,ipl2014-07,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2430/uds/traj
+2431,2014-04-21,18:30,Chennai Super Kings,Delhi Daredevils,ipl2014-08,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2431/uds/traj
+2432,2014-04-22,18:30,Kings XI Punjab,Sunrisers Hyderabad,ipl2014-09,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2432/uds/traj
+2433,2014-04-23,18:30,Rajasthan Royals,Chennai Super Kings,ipl2014-10,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2433/uds/traj
+2434,2014-04-24,18:30,Royal Challengers Bangalore,Kolkata Knight Riders,ipl2014-11,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2434/uds/traj
+2435,2014-04-25,14:30,Sunrisers Hyderabad,Delhi Daredevils,ipl2014-12,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2435/uds/traj
+2436,2014-04-25,18:30,Chennai Super Kings,Mumbai Indians,ipl2014-13,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2436/uds/traj
+2437,2014-04-26,14:30,Rajasthan Royals,Royal Challengers Bangalore,ipl2014-14,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2437/uds/traj
+2438,2014-04-26,18:30,Kolkata Knight Riders,Kings XI Punjab,ipl2014-15,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2438/uds/traj
+2440,2014-04-27,18:30,Sunrisers Hyderabad,Chennai Super Kings,ipl2014-17,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2440/uds/traj
+2439,2014-04-27,14:30,Delhi Daredevils,Mumbai Indians,ipl2014-16,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2439/uds/traj
+2441,2014-04-28,18:30,Kings XI Punjab,Royal Challengers Bangalore,ipl2014-18,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2441/uds/traj
+2442,2014-04-29,18:30,Kolkata Knight Riders,Rajasthan Royals,ipl2014-19,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2442/uds/traj
+2443,2014-04-30,18:30,Mumbai Indians,Sunrisers Hyderabad,ipl2014-20,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2443/uds/traj
+2444,2014-05-02,20:00,Chennai Super Kings,Kolkata Knight Riders,ipl2014-21,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2444/uds/traj
+2446,2014-05-03,20:00,Delhi Daredevils,Rajasthan Royals,ipl2014-23,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2446/uds/traj
+2445,2014-05-03,16:00,Mumbai Indians,Kings XI Punjab,ipl2014-22,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2445/uds/traj
+2447,2014-05-04,20:00,Royal Challengers Bangalore,Sunrisers Hyderabad,ipl2014-24,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2447/uds/traj
+2449,2014-05-05,20:00,Delhi Daredevils,Chennai Super Kings,ipl2014-26,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2449/uds/traj
+2448,2014-05-05,16:00,Rajasthan Royals,Kolkata Knight Riders,ipl2014-25,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2448/uds/traj
+2450,2014-05-06,20:00,Mumbai Indians,Royal Challengers Bangalore,ipl2014-27,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2450/uds/traj
+2451,2014-05-07,16:00,Delhi Daredevils,Kolkata Knight Riders,ipl2014-28,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2451/uds/traj
+2457,2014-05-07,20:00,Kings XI Punjab,Chennai Super Kings,ipl2014-29,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2457/uds/traj
+2452,2014-05-08,20:00,Rajasthan Royals,Sunrisers Hyderabad,ipl2014-30,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2452/uds/traj
+2453,2014-05-09,20:00,Royal Challengers Bangalore,Kings XI Punjab,ipl2014-31,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2453/uds/traj
+2454,2014-05-10,16:00,Delhi Daredevils,Sunrisers Hyderabad,ipl2014-32,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2454/uds/traj
+2455,2014-05-10,20:00,Mumbai Indians,Chennai Super Kings,ipl2014-33,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2455/uds/traj
+2456,2014-05-11,16:00,Kings XI Punjab,Kolkata Knight Riders,ipl2014-34,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2456/uds/traj
+2458,2014-05-11,20:00,Royal Challengers Bangalore,Rajasthan Royals,ipl2014-35,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2458/uds/traj
+2459,2014-05-12,20:00,Sunrisers Hyderabad,Mumbai Indians,ipl2014-36,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2459/uds/traj
+2461,2014-05-13,20:00,Royal Challengers Bangalore,Delhi Daredevils,ipl2014-38,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2461/uds/traj
+2460,2014-05-13,16:00,Chennai Super Kings,Rajasthan Royals,ipl2014-37,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2460/uds/traj
+2462,2014-05-14,16:00,Sunrisers Hyderabad,Kings XI Punjab,ipl2014-39,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2462/uds/traj
+2463,2014-05-14,20:00,Kolkata Knight Riders,Mumbai Indians,ipl2014-40,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2463/uds/traj
+2464,2014-05-15,20:00,Rajasthan Royals,Delhi Daredevils,ipl2014-41,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2464/uds/traj
+2465,2014-05-18,16:00,Chennai Super Kings,Royal Challengers Bangalore,ipl2014-42,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2465/uds/traj
+2466,2014-05-18,20:00,Sunrisers Hyderabad,Kolkata Knight Riders,ipl2014-43,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2466/uds/traj
+2467,2014-05-19,16:00,Rajasthan Royals,Mumbai Indians,ipl2014-44,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2467/uds/traj
+2468,2014-05-19,20:00,Delhi Daredevils,Kings XI Punjab,ipl2014-45,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2468/uds/traj
+2469,2014-05-20,16:00,Sunrisers Hyderabad,Royal Challengers Bangalore,ipl2014-46,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2469/uds/traj
+2470,2014-05-20,20:00,Kolkata Knight Riders,Chennai Super Kings,ipl2014-47,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2470/uds/traj
+2471,2014-05-21,20:00,Kings XI Punjab,Mumbai Indians,ipl2014-48,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2471/uds/traj
+2472,2014-05-22,16:00,Kolkata Knight Riders,Royal Challengers Bangalore,ipl2014-49,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2472/uds/traj
+2473,2014-05-22,20:00,Chennai Super Kings,Sunrisers Hyderabad,ipl2014-50,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2473/uds/traj
+2474,2014-05-23,16:00,Mumbai Indians,Delhi Daredevils,ipl2014-51,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2474/uds/traj
+2475,2014-05-23,20:00,Kings XI Punjab,Rajasthan Royals,ipl2014-52,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2475/uds/traj
+2476,2014-05-24,16:00,Royal Challengers Bangalore,Chennai Super Kings,ipl2014-53,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2476/uds/traj
+2477,2014-05-24,20:00,Kolkata Knight Riders,Sunrisers Hyderabad,ipl2014-54,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2477/uds/traj
+2479,2014-05-25,20:00,Mumbai Indians,Rajasthan Royals,ipl2014-56,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2479/uds/traj
+2478,2014-05-25,16:00,Kings XI Punjab,Delhi Daredevils,ipl2014-55,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2478/uds/traj
+2480,2014-05-28,16:00,Kings XI Punjab,Kolkata Knight Riders,ipl2014-57,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2480/uds/traj
+2481,2014-05-28,20:00,Chennai Super Kings,Mumbai Indians,ipl2014-58,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2481/uds/traj
+2482,2014-05-30,20:00,Kings XI Punjab,Chennai Super Kings,ipl2014-59,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2482/uds/traj
+2483,2014-06-01,20:00,Kings XI Punjab,Kolkata Knight Riders,ipl2014-60,ipl2014,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/2483/uds/traj
+3226,2015-04-08,20:00,Kolkata Knight Riders,Mumbai Indians,ipl2015-01,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3226/uds/traj
+3227,2015-04-09,20:00,Chennai Super Kings,Delhi Daredevils,ipl2015-02,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3227/uds/traj
+3228,2015-04-10,20:00,Kings XI Punjab,Rajasthan Royals,ipl2015-03,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3228/uds/traj
+3230,2015-04-11,20:00,Kolkata Knight Riders,Royal Challengers Bangalore,ipl2015-05,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3230/uds/traj
+3229,2015-04-11,16:00,Chennai Super Kings,Sunrisers Hyderabad,ipl2015-04,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3229/uds/traj
+3232,2015-04-12,20:00,Mumbai Indians,Kings XI Punjab,ipl2015-07,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3232/uds/traj
+3231,2015-04-12,16:00,Delhi Daredevils,Rajasthan Royals,ipl2015-06,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3231/uds/traj
+3233,2015-04-13,20:00,Royal Challengers Bangalore,Sunrisers Hyderabad,ipl2015-08,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3233/uds/traj
+3234,2015-04-14,20:00,Rajasthan Royals,Mumbai Indians,ipl2015-09,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3234/uds/traj
+3235,2015-04-15,20:00,Kings XI Punjab,Delhi Daredevils,ipl2015-10,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3235/uds/traj
+3236,2015-04-16,20:00,Sunrisers Hyderabad,Rajasthan Royals,ipl2015-11,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3236/uds/traj
+3237,2015-04-17,20:00,Mumbai Indians,Chennai Super Kings,ipl2015-12,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3237/uds/traj
+3238,2015-04-18,16:00,Sunrisers Hyderabad,Delhi Daredevils,ipl2015-13,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3238/uds/traj
+3239,2015-04-18,20:00,Kings XI Punjab,Kolkata Knight Riders,ipl2015-14,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3239/uds/traj
+3241,2015-04-19,20:00,Royal Challengers Bangalore,Mumbai Indians,ipl2015-16,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3241/uds/traj
+3240,2015-04-19,16:00,Rajasthan Royals,Chennai Super Kings,ipl2015-15,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3240/uds/traj
+3242,2015-04-20,20:00,Delhi Daredevils,Kolkata Knight Riders,ipl2015-17,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3242/uds/traj
+3243,2015-04-21,20:00,Rajasthan Royals,Kings XI Punjab,ipl2015-18,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3243/uds/traj
+3245,2015-04-22,20:00,Royal Challengers Bangalore,Chennai Super Kings,ipl2015-20,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3245/uds/traj
+3244,2015-04-22,16:00,Sunrisers Hyderabad,Kolkata Knight Riders,ipl2015-19,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3244/uds/traj
+3246,2015-04-23,20:00,Delhi Daredevils,Mumbai Indians,ipl2015-21,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3246/uds/traj
+3247,2015-04-24,20:00,Rajasthan Royals,Royal Challengers Bangalore,ipl2015-22,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3247/uds/traj
+3249,2015-04-25,20:00,Chennai Super Kings,Kings XI Punjab,ipl2015-24,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3249/uds/traj
+3248,2015-04-25,16:00,Mumbai Indians,Sunrisers Hyderabad,ipl2015-23,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3248/uds/traj
+3251,2015-04-26,20:00,Delhi Daredevils,Royal Challengers Bangalore,ipl2015-26,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3251/uds/traj
+3250,2015-04-26,16:00,Kolkata Knight Riders,Rajasthan Royals,ipl2015-25,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3250/uds/traj
+3252,2015-04-27,20:00,Kings XI Punjab,Sunrisers Hyderabad,ipl2015-27,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3252/uds/traj
+3253,2015-04-28,20:00,Chennai Super Kings,Kolkata Knight Riders,ipl2015-28,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3253/uds/traj
+3254,2015-04-29,20:00,Royal Challengers Bangalore,Rajasthan Royals,ipl2015-29,ipl2015,IPLT20,1,http://cricketapi-icc.pulselive.com/fixtures/3254/uds/traj
+3255,2015-04-30,20:00,Kolkata Knight Riders,Chennai Super Kings,ipl2015-30,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3255/uds/traj
+3256,2015-05-01,16:00,Delhi Daredevils,Kings XI Punjab,ipl2015-31,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3256/uds/traj
+3257,2015-05-01,20:00,Mumbai Indians,Rajasthan Royals,ipl2015-32,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3257/uds/traj
+3258,2015-05-02,16:00,Royal Challengers Bangalore,Kolkata Knight Riders,ipl2015-33,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3258/uds/traj
+3259,2015-05-02,20:00,Sunrisers Hyderabad,Chennai Super Kings,ipl2015-34,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3259/uds/traj
+3260,2015-05-03,16:00,Kings XI Punjab,Mumbai Indians,ipl2015-35,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3260/uds/traj
+3261,2015-05-03,20:00,Rajasthan Royals,Delhi Daredevils,ipl2015-36,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3261/uds/traj
+3262,2015-05-04,16:00,Chennai Super Kings,Royal Challengers Bangalore,ipl2015-37,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3262/uds/traj
+3263,2015-05-04,20:00,Kolkata Knight Riders,Sunrisers Hyderabad,ipl2015-38,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3263/uds/traj
+3264,2015-05-05,20:00,Mumbai Indians,Delhi Daredevils,ipl2015-39,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3264/uds/traj
+3265,2015-05-06,20:00,Royal Challengers Bangalore,Kings XI Punjab,ipl2015-40,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3265/uds/traj
+3267,2015-05-07,20:00,Kolkata Knight Riders,Delhi Daredevils,ipl2015-42,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3267/uds/traj
+3266,2015-05-07,16:00,Rajasthan Royals,Sunrisers Hyderabad,ipl2015-41,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3266/uds/traj
+3268,2015-05-08,20:00,Chennai Super Kings,Mumbai Indians,ipl2015-43,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3268/uds/traj
+3270,2015-05-09,20:00,Delhi Daredevils,Sunrisers Hyderabad,ipl2015-45,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3270/uds/traj
+3269,2015-05-09,16:00,Kolkata Knight Riders,Kings XI Punjab,ipl2015-44,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3269/uds/traj
+3271,2015-05-10,16:00,Mumbai Indians,Royal Challengers Bangalore,ipl2015-46,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3271/uds/traj
+3272,2015-05-10,20:00,Chennai Super Kings,Rajasthan Royals,ipl2015-47,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3272/uds/traj
+3273,2015-05-11,20:00,Sunrisers Hyderabad,Kings XI Punjab,ipl2015-48,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3273/uds/traj
+3274,2015-05-12,20:00,Delhi Daredevils,Chennai Super Kings,ipl2015-49,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3274/uds/traj
+3275,2015-05-13,20:00,Kings XI Punjab,Royal Challengers Bangalore,ipl2015-50,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3275/uds/traj
+3276,2015-05-14,20:00,Mumbai Indians,Kolkata Knight Riders,ipl2015-51,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3276/uds/traj
+3277,2015-05-15,20:00,Sunrisers Hyderabad,Royal Challengers Bangalore,ipl2015-52,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3277/uds/traj
+3279,2015-05-16,20:00,Rajasthan Royals,Kolkata Knight Riders,ipl2015-54,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3279/uds/traj
+3278,2015-05-16,16:00,Kings XI Punjab,Chennai Super Kings,ipl2015-53,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3278/uds/traj
+3281,2015-05-17,20:00,Sunrisers Hyderabad,Mumbai Indians,ipl2015-56,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3281/uds/traj
+3280,2015-05-17,16:00,Royal Challengers Bangalore,Delhi Daredevils,ipl2015-55,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3280/uds/traj
+3282,2015-05-19,20:00,Chennai Super Kings,Mumbai Indians,ipl2015-57,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3282/uds/traj
+3283,2015-05-20,20:00,Royal Challengers Bangalore,Rajasthan Royals,ipl2015-58,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3283/uds/traj
+3284,2015-05-22,20:00,Chennai Super Kings,Royal Challengers Bangalore,ipl2015-59,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3284/uds/traj
+3285,2015-05-24,20:00,Mumbai Indians,Chennai Super Kings,ipl2015-60,ipl2015,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/3285/uds/traj
+4042,2016-04-09,20:00,Mumbai Indians,Rising Pune Supergiant,ipl2016-01,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4042/uds/traj
+4043,2016-04-10,20:00,Kolkata Knight Riders,Delhi Daredevils,ipl2016-02,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4043/uds/traj
+4044,2016-04-11,20:00,Kings XI Punjab,Gujarat Lions,ipl2016-03,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4044/uds/traj
+4045,2016-04-12,20:00,Royal Challengers Bangalore,Sunrisers Hyderabad,ipl2016-04,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4045/uds/traj
+4046,2016-04-13,20:00,Kolkata Knight Riders,Mumbai Indians,ipl2016-05,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4046/uds/traj
+4047,2016-04-14,20:00,Gujarat Lions,Rising Pune Supergiant,ipl2016-06,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4047/uds/traj
+4048,2016-04-15,20:00,Delhi Daredevils,Kings XI Punjab,ipl2016-07,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4048/uds/traj
+4049,2016-04-16,16:00,Sunrisers Hyderabad,Kolkata Knight Riders,ipl2016-08,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4049/uds/traj
+4050,2016-04-16,20:00,Mumbai Indians,Gujarat Lions,ipl2016-09,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4050/uds/traj
+4051,2016-04-17,16:00,Kings XI Punjab,Rising Pune Supergiant,ipl2016-10,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4051/uds/traj
+4052,2016-04-17,20:00,Royal Challengers Bangalore,Delhi Daredevils,ipl2016-11,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4052/uds/traj
+4053,2016-04-18,20:00,Sunrisers Hyderabad,Mumbai Indians,ipl2016-12,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4053/uds/traj
+4054,2016-04-19,20:00,Kings XI Punjab,Kolkata Knight Riders,ipl2016-13,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4054/uds/traj
+4055,2016-04-20,20:00,Mumbai Indians,Royal Challengers Bangalore,ipl2016-14,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4055/uds/traj
+4056,2016-04-21,20:00,Gujarat Lions,Sunrisers Hyderabad,ipl2016-15,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4056/uds/traj
+4057,2016-04-22,20:00,Rising Pune Supergiant,Royal Challengers Bangalore,ipl2016-16,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4057/uds/traj
+4058,2016-04-23,16:00,Delhi Daredevils,Mumbai Indians,ipl2016-17,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4058/uds/traj
+4059,2016-04-23,20:00,Sunrisers Hyderabad,Kings XI Punjab,ipl2016-18,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4059/uds/traj
+4060,2016-04-24,16:00,Gujarat Lions,Royal Challengers Bangalore,ipl2016-19,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4060/uds/traj
+4061,2016-04-24,20:00,Rising Pune Supergiant,Kolkata Knight Riders,ipl2016-20,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4061/uds/traj
+4062,2016-04-25,20:00,Kings XI Punjab,Mumbai Indians,ipl2016-21,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4062/uds/traj
+4063,2016-04-26,20:00,Sunrisers Hyderabad,Rising Pune Supergiant,ipl2016-22,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4063/uds/traj
+4064,2016-04-27,20:00,Delhi Daredevils,Gujarat Lions,ipl2016-23,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4064/uds/traj
+4065,2016-04-28,20:00,Mumbai Indians,Kolkata Knight Riders,ipl2016-24,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4065/uds/traj
+4066,2016-04-29,20:00,Rising Pune Supergiant,Gujarat Lions,ipl2016-25,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4066/uds/traj
+4067,2016-04-30,16:00,Delhi Daredevils,Kolkata Knight Riders,ipl2016-26,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4067/uds/traj
+4068,2016-04-30,20:00,Sunrisers Hyderabad,Royal Challengers Bangalore,ipl2016-27,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4068/uds/traj
+4069,2016-05-01,16:00,Gujarat Lions,Kings XI Punjab,ipl2016-28,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4069/uds/traj
+4070,2016-05-01,20:00,Rising Pune Supergiant,Mumbai Indians,ipl2016-29,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4070/uds/traj
+4071,2016-05-02,20:00,Royal Challengers Bangalore,Kolkata Knight Riders,ipl2016-30,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4071/uds/traj
+4072,2016-05-03,20:00,Gujarat Lions,Delhi Daredevils,ipl2016-31,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4072/uds/traj
+4073,2016-05-04,20:00,Kolkata Knight Riders,Kings XI Punjab,ipl2016-32,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4073/uds/traj
+4074,2016-05-05,20:00,Delhi Daredevils,Rising Pune Supergiant,ipl2016-33,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4074/uds/traj
+4075,2016-05-06,20:00,Sunrisers Hyderabad,Gujarat Lions,ipl2016-34,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4075/uds/traj
+4077,2016-05-07,20:00,Kings XI Punjab,Delhi Daredevils,ipl2016-36,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4077/uds/traj
+4076,2016-05-07,16:00,Royal Challengers Bangalore,Rising Pune Supergiant,ipl2016-35,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4076/uds/traj
+4078,2016-05-08,16:00,Mumbai Indians,Sunrisers Hyderabad,ipl2016-37,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4078/uds/traj
+4079,2016-05-08,20:00,Kolkata Knight Riders,Gujarat Lions,ipl2016-38,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4079/uds/traj
+4080,2016-05-09,20:00,Kings XI Punjab,Royal Challengers Bangalore,ipl2016-39,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4080/uds/traj
+4081,2016-05-10,20:00,Rising Pune Supergiant,Sunrisers Hyderabad,ipl2016-40,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4081/uds/traj
+4082,2016-05-11,20:00,Royal Challengers Bangalore,Mumbai Indians,ipl2016-41,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4082/uds/traj
+4083,2016-05-12,20:00,Sunrisers Hyderabad,Delhi Daredevils,ipl2016-42,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4083/uds/traj
+4084,2016-05-13,20:00,Mumbai Indians,Kings XI Punjab,ipl2016-43,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4084/uds/traj
+4085,2016-05-14,16:00,Royal Challengers Bangalore,Gujarat Lions,ipl2016-44,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4085/uds/traj
+4086,2016-05-14,20:00,Kolkata Knight Riders,Rising Pune Supergiant,ipl2016-45,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4086/uds/traj
+4088,2016-05-15,20:00,Mumbai Indians,Delhi Daredevils,ipl2016-47,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4088/uds/traj
+4087,2016-05-15,16:00,Kings XI Punjab,Sunrisers Hyderabad,ipl2016-46,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4087/uds/traj
+4089,2016-05-16,20:00,Kolkata Knight Riders,Royal Challengers Bangalore,ipl2016-48,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4089/uds/traj
+4090,2016-05-17,20:00,Rising Pune Supergiant,Delhi Daredevils,ipl2016-49,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4090/uds/traj
+4091,2016-05-18,20:00,Royal Challengers Bangalore,Kings XI Punjab,ipl2016-50,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4091/uds/traj
+4092,2016-05-19,20:00,Gujarat Lions,Kolkata Knight Riders,ipl2016-51,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4092/uds/traj
+4093,2016-05-20,20:00,Delhi Daredevils,Sunrisers Hyderabad,ipl2016-52,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4093/uds/traj
+4095,2016-05-21,20:00,Gujarat Lions,Mumbai Indians,ipl2016-54,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4095/uds/traj
+4094,2016-05-21,16:00,Rising Pune Supergiant,Kings XI Punjab,ipl2016-53,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4094/uds/traj
+4096,2016-05-22,16:00,Kolkata Knight Riders,Sunrisers Hyderabad,ipl2016-55,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4096/uds/traj
+4097,2016-05-22,20:00,Delhi Daredevils,Royal Challengers Bangalore,ipl2016-56,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4097/uds/traj
+4098,2016-05-24,20:00,Gujarat Lions,Royal Challengers Bangalore,ipl2016-57,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4098/uds/traj
+4099,2016-05-25,20:00,Sunrisers Hyderabad,Kolkata Knight Riders,ipl2016-58,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4099/uds/traj
+4100,2016-05-27,20:00,Gujarat Lions,Sunrisers Hyderabad,ipl2016-59,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4100/uds/traj
+4101,2016-05-29,20:00,Royal Challengers Bangalore,Sunrisers Hyderabad,ipl2016-60,ipl2016,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/4101/uds/traj
+5839,2017-04-05,20:00,Sunrisers Hyderabad,Royal Challengers Bangalore,ipl2017-01,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5839/uds/traj
+5840,2017-04-06,20:00,Rising Pune Supergiant,Mumbai Indians,ipl2017-02,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5840/uds/traj
+5841,2017-04-07,20:00,Gujarat Lions,Kolkata Knight Riders,ipl2017-03,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5841/uds/traj
+5842,2017-04-08,16:00,Kings XI Punjab,Rising Pune Supergiant,ipl2017-04,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5842/uds/traj
+5843,2017-04-08,20:00,Royal Challengers Bangalore,Delhi Daredevils,ipl2017-05,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5843/uds/traj
+5844,2017-04-09,16:00,Sunrisers Hyderabad,Gujarat Lions,ipl2017-06,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5844/uds/traj
+5845,2017-04-09,20:00,Mumbai Indians,Kolkata Knight Riders,ipl2017-07,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5845/uds/traj
+5846,2017-04-10,20:00,Kings XI Punjab,Royal Challengers Bangalore,ipl2017-08,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5846/uds/traj
+5847,2017-04-11,20:00,Rising Pune Supergiant,Delhi Daredevils,ipl2017-09,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5847/uds/traj
+5848,2017-04-12,20:00,Mumbai Indians,Sunrisers Hyderabad,ipl2017-10,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5848/uds/traj
+5849,2017-04-13,20:00,Kolkata Knight Riders,Kings XI Punjab,ipl2017-11,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5849/uds/traj
+5850,2017-04-14,16:00,Royal Challengers Bangalore,Mumbai Indians,ipl2017-12,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5850/uds/traj
+5851,2017-04-14,20:00,Gujarat Lions,Rising Pune Supergiant,ipl2017-13,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5851/uds/traj
+5852,2017-04-15,16:00,Kolkata Knight Riders,Sunrisers Hyderabad,ipl2017-14,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5852/uds/traj
+5853,2017-04-15,20:00,Delhi Daredevils,Kings XI Punjab,ipl2017-15,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5853/uds/traj
+5854,2017-04-16,16:00,Mumbai Indians,Gujarat Lions,ipl2017-16,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5854/uds/traj
+5855,2017-04-16,20:00,Royal Challengers Bangalore,Rising Pune Supergiant,ipl2017-17,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5855/uds/traj
+5856,2017-04-17,16:00,Delhi Daredevils,Kolkata Knight Riders,ipl2017-18,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5856/uds/traj
+5857,2017-04-17,20:00,Sunrisers Hyderabad,Kings XI Punjab,ipl2017-19,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5857/uds/traj
+5858,2017-04-18,20:00,Gujarat Lions,Royal Challengers Bangalore,ipl2017-20,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5858/uds/traj
+5859,2017-04-19,20:00,Sunrisers Hyderabad,Delhi Daredevils,ipl2017-21,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5859/uds/traj
+5860,2017-04-20,20:00,Kings XI Punjab,Mumbai Indians,ipl2017-22,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5860/uds/traj
+5861,2017-04-21,20:00,Kolkata Knight Riders,Gujarat Lions,ipl2017-23,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5861/uds/traj
+5862,2017-04-22,16:00,Rising Pune Supergiant,Sunrisers Hyderabad,ipl2017-24,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5862/uds/traj
+5863,2017-04-22,20:00,Mumbai Indians,Delhi Daredevils,ipl2017-25,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5863/uds/traj
+5864,2017-04-23,16:00,Gujarat Lions,Kings XI Punjab,ipl2017-26,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5864/uds/traj
+5865,2017-04-23,20:00,Kolkata Knight Riders,Royal Challengers Bangalore,ipl2017-27,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5865/uds/traj
+5866,2017-04-24,20:00,Mumbai Indians,Rising Pune Supergiant,ipl2017-28,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5866/uds/traj
+5867,2017-04-25,20:00,Royal Challengers Bangalore,Sunrisers Hyderabad,ipl2017-29,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5867/uds/traj
+5868,2017-04-26,20:00,Rising Pune Supergiant,Kolkata Knight Riders,ipl2017-30,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5868/uds/traj
+5869,2017-04-27,20:00,Royal Challengers Bangalore,Gujarat Lions,ipl2017-31,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5869/uds/traj
+5870,2017-04-28,16:00,Kolkata Knight Riders,Delhi Daredevils,ipl2017-32,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5870/uds/traj
+5871,2017-04-28,20:00,Kings XI Punjab,Sunrisers Hyderabad,ipl2017-33,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5871/uds/traj
+5872,2017-04-29,16:00,Rising Pune Supergiant,Royal Challengers Bangalore,ipl2017-34,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5872/uds/traj
+5873,2017-04-29,20:00,Gujarat Lions,Mumbai Indians,ipl2017-35,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5873/uds/traj
+5874,2017-04-30,16:00,Kings XI Punjab,Delhi Daredevils,ipl2017-36,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5874/uds/traj
+5875,2017-04-30,20:00,Sunrisers Hyderabad,Kolkata Knight Riders,ipl2017-37,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5875/uds/traj
+5876,2017-05-01,16:00,Mumbai Indians,Royal Challengers Bangalore,ipl2017-38,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5876/uds/traj
+5877,2017-05-01,20:00,Rising Pune Supergiant,Gujarat Lions,ipl2017-39,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5877/uds/traj
+5878,2017-05-02,20:00,Delhi Daredevils,Sunrisers Hyderabad,ipl2017-40,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5878/uds/traj
+5879,2017-05-03,20:00,Kolkata Knight Riders,Rising Pune Supergiant,ipl2017-41,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5879/uds/traj
+5880,2017-05-04,20:00,Delhi Daredevils,Gujarat Lions,ipl2017-42,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5880/uds/traj
+5881,2017-05-05,20:00,Royal Challengers Bangalore,Kings XI Punjab,ipl2017-43,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5881/uds/traj
+5882,2017-05-06,16:00,Sunrisers Hyderabad,Rising Pune Supergiant,ipl2017-44,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5882/uds/traj
+5883,2017-05-06,20:00,Delhi Daredevils,Mumbai Indians,ipl2017-45,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5883/uds/traj
+5885,2017-05-07,20:00,Kings XI Punjab,Gujarat Lions,ipl2017-47,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5885/uds/traj
+5884,2017-05-07,16:00,Royal Challengers Bangalore,Kolkata Knight Riders,ipl2017-46,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5884/uds/traj
+5886,2017-05-08,20:00,Sunrisers Hyderabad,Mumbai Indians,ipl2017-48,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5886/uds/traj
+5887,2017-05-09,20:00,Kings XI Punjab,Kolkata Knight Riders,ipl2017-49,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5887/uds/traj
+5888,2017-05-10,20:00,Gujarat Lions,Delhi Daredevils,ipl2017-50,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5888/uds/traj
+5889,2017-05-11,20:00,Mumbai Indians,Kings XI Punjab,ipl2017-51,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5889/uds/traj
+5890,2017-05-12,20:00,Delhi Daredevils,Rising Pune Supergiant,ipl2017-52,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5890/uds/traj
+5892,2017-05-13,20:00,Kolkata Knight Riders,Mumbai Indians,ipl2017-54,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5892/uds/traj
+5891,2017-05-13,16:00,Gujarat Lions,Sunrisers Hyderabad,ipl2017-53,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5891/uds/traj
+5894,2017-05-14,20:00,Delhi Daredevils,Royal Challengers Bangalore,ipl2017-56,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5894/uds/traj
+5893,2017-05-14,16:00,Rising Pune Supergiant,Kings XI Punjab,ipl2017-55,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5893/uds/traj
+5895,2017-05-16,20:00,Mumbai Indians,Rising Pune Supergiant,ipl2017-57,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5895/uds/traj
+5896,2017-05-17,20:00,Sunrisers Hyderabad,Kolkata Knight Riders,ipl2017-58,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5896/uds/traj
+5897,2017-05-19,20:00,Mumbai Indians,Kolkata Knight Riders,ipl2017-59,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5897/uds/traj
+5898,2017-05-21,20:00,Rising Pune Supergiant,Mumbai Indians,ipl2017-60,ipl2017,IPLT20,2,http://cricketapi-icc.pulselive.com/fixtures/5898/uds/traj

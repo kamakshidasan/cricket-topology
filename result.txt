@@ -1,0 +1,29 @@
+idw earthmovers 0.15
+idw w1 -0.085
+idw bottleneck 0.023
+nn earthmovers 0.243
+nn w1 -0.098
+nn bottleneck 0.15
+spline earthmovers 0.223
+spline w1 0.105
+spline bottleneck 0.095
+krg earthmovers 0.151
+krg w1 0.086
+krg bottleneck 0.095
+
+
+nn earthmovers 0.243
+spline earthmovers 0.223
+krg earthmovers 0.151
+idw earthmovers 0.15
+
+nn bottleneck 0.15
+spline bottleneck 0.095
+krg bottleneck 0.095
+idw bottleneck 0.023
+
+nn w1 -0.098
+spline w1 0.105
+krg w1 0.086
+idw w1 -0.085
+

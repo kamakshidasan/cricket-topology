@@ -1,0 +1,247 @@
+YEAR,INNINGS_OVER_BALL,BATSMAN,BOWLER,BOWL_SPEED,CREDIT,DEBIT,IS_RHB,PITCHED_X,PITCHED_Y,STUMPS_Y,STUMPS_Z,LANDING_X,LANDING_Y
+2015,2015.44.1.0.1,Murali Vijay,Umesh Yadav,37.908,1,1,y,7.563,0.025,0.179,0.784,68,33
+2015,2015.44.1.0.2,Manan Vohra,Umesh Yadav,-1.000,0,0,y,,,,,42,38
+2015,2015.44.1.0.3,Manan Vohra,Umesh Yadav,39.394,0,0,y,8.783,-0.264,-0.320,1.041,5,5
+2015,2015.44.1.0.4,Manan Vohra,Umesh Yadav,38.472,1,1,y,9.279,-0.302,-0.323,0.890,20,20
+2015,2015.44.1.0.5,Murali Vijay,Umesh Yadav,39.630,0,0,y,10.383,-0.329,-0.023,1.447,39,39
+2015,2015.44.1.0.6,Murali Vijay,Umesh Yadav,40.679,0,0,y,8.052,-0.418,-0.357,0.899,34,42
+2015,2015.44.1.1.1,Manan Vohra,Andre Russell,-1.000,1,1,y,,,,,83,49
+2015,2015.44.1.1.2,Murali Vijay,Andre Russell,-1.000,1,1,y,,,,,32,44
+2015,2015.44.1.1.3,Manan Vohra,Andre Russell,-1.000,0,0,y,,,,,33,40
+2015,2015.44.1.1.4,Manan Vohra,Andre Russell,-1.000,2,2,y,,,,,45,61
+2015,2015.44.1.1.5,Manan Vohra,Andre Russell,37.808,4,4,y,11.031,-0.411,-0.018,1.343,69,8
+2015,2015.44.1.1.6,Manan Vohra,Andre Russell,-1.000,0,0,y,,,,,5,5
+2015,2015.44.1.2.1,Murali Vijay,Umesh Yadav,40.014,4,4,y,7.355,-0.145,0.169,0.830,89,19
+2015,2015.44.1.2.2,Murali Vijay,Umesh Yadav,37.684,0,0,y,9.165,-0.427,-0.164,0.962,33,36
+2015,2015.44.1.2.3,Murali Vijay,Umesh Yadav,39.759,6,6,y,10.713,-0.409,-0.323,1.339,7,54
+2015,2015.44.1.2.4,Murali Vijay,Umesh Yadav,38.266,4,4,y,9.904,-0.209,0.254,1.249,66,7
+2015,2015.44.1.2.5,Murali Vijay,Umesh Yadav,39.119,0,0,y,8.019,-0.475,-0.363,0.911,31,43
+2015,2015.44.1.2.6,Murali Vijay,Umesh Yadav,37.282,4,4,y,6.791,-0.233,0.013,0.740,76,85
+2015,2015.44.1.3.1,Manan Vohra,Sunil Narine,-1.000,0,0,y,,,,,5,5
+2015,2015.44.1.3.2,Manan Vohra,Sunil Narine,25.473,1,1,y,4.575,-0.341,-0.218,0.651,60,68
+2015,2015.44.1.3.3,Murali Vijay,Sunil Narine,-1.000,1,1,y,,,,,61,22
+2015,2015.44.1.3.4,Manan Vohra,Sunil Narine,27.560,1,1,y,5.821,-0.121,-0.133,0.774,70,44
+2015,2015.44.1.3.5,Murali Vijay,Sunil Narine,-1.000,0,0,y,,,,,5,5
+2015,2015.44.1.3.6,Murali Vijay,Sunil Narine,-1.000,1,1,y,,,,,69,28
+2015,2015.44.1.4.1,Murali Vijay,Johan Botha,26.580,1,1,y,4.820,-0.240,-0.002,0.655,73,67
+2015,2015.44.1.4.2,Manan Vohra,Johan Botha,24.208,0,0,y,6.325,-0.186,0.324,0.754,70,26
+2015,2015.44.1.4.3,Manan Vohra,Johan Botha,25.570,1,1,y,2.141,-0.077,-0.012,0.435,70,55
+2015,2015.44.1.4.4,Murali Vijay,Johan Botha,27.075,0,0,y,6.017,-0.312,-0.094,0.689,33,44
+2015,2015.44.1.4.5,Murali Vijay,Johan Botha,24.805,1,1,y,7.283,-0.283,0.218,0.754,61,24
+2015,2015.44.1.4.6,Manan Vohra,Johan Botha,26.896,6,6,y,3.298,-0.358,-0.240,0.457,30,90
+2015,2015.44.1.5.1,Murali Vijay,Sunil Narine,-1.000,0,0,y,,,,,31,36
+2015,2015.44.1.5.2,Murali Vijay,Sunil Narine,-1.000,0,0,y,,,,,62,23
+2015,2015.44.1.5.3,Murali Vijay,Sunil Narine,24.889,4,4,y,6.825,-0.385,-0.653,0.840,22,12
+2015,2015.44.1.5.4,Murali Vijay,Sunil Narine,-1.000,0,0,y,,,,,5,5
+2015,2015.44.1.5.5,Murali Vijay,Sunil Narine,25.742,0,0,y,5.728,-0.014,0.105,0.737,0,0
+2015,2015.44.1.5.6,Wriddhiman Saha,Sunil Narine,-1.000,0,0,y,,,,,52,35
+2015,2015.44.1.6.1,Manan Vohra,Brad Hogg,22.549,1,1,y,3.961,-0.045,0.165,0.817,72,68
+2015,2015.44.1.6.2,Wriddhiman Saha,Brad Hogg,23.882,1,1,y,3.116,-0.138,-0.219,0.660,74,50
+2015,2015.44.1.6.3,Manan Vohra,Brad Hogg,25.019,0,0,y,5.183,0.137,0.219,0.645,5,5
+2015,2015.44.1.6.4,Manan Vohra,Brad Hogg,23.694,0,0,y,4.718,-0.213,-0.789,0.863,5,5
+2015,2015.44.1.6.5,Manan Vohra,Brad Hogg,25.412,1,1,y,9.652,-0.344,-0.561,0.532,35,73
+2015,2015.44.1.6.6,Wriddhiman Saha,Brad Hogg,23.463,0,0,y,4.388,0.011,-0.387,0.820,38,41
+2015,2015.44.1.7.1,Manan Vohra,Andre Russell,-1.000,0,0,y,,,,,36,29
+2015,2015.44.1.7.2,Manan Vohra,Andre Russell,40.420,2,2,y,11.672,-0.229,0.173,1.519,53,12
+2015,2015.44.1.7.3,Manan Vohra,Andre Russell,39.338,2,2,y,8.679,-0.273,-0.083,0.973,24,76
+2015,2015.44.1.7.4,Manan Vohra,Andre Russell,-1.000,0,0,y,,,,,33,29
+2015,2015.44.1.7.5,Manan Vohra,Andre Russell,37.673,6,6,y,11.250,-0.404,-0.089,1.437,94,24
+2015,2015.44.1.7.6,Manan Vohra,Andre Russell,-1.000,1,1,y,,,,,62,70
+2015,2015.44.1.8.1,Manan Vohra,Brad Hogg,-1.000,0,0,y,,,,,55,28
+2015,2015.44.1.8.2,Wriddhiman Saha,Brad Hogg,23.977,0,2,y,3.409,0.328,0.308,0.525,5,5
+2015,2015.44.1.8.3,Manan Vohra,Brad Hogg,23.550,0,0,y,6.800,-0.112,-1.022,0.736,5,5
+2015,2015.44.1.8.4,Manan Vohra,Brad Hogg,25.388,0,0,y,5.941,-0.113,-0.100,0.688,36,29
+2015,2015.44.1.8.5,Manan Vohra,Brad Hogg,-1.000,1,1,y,,,,,59,21
+2015,2015.44.1.8.6,Wriddhiman Saha,Brad Hogg,-1.000,0,0,y,,,,,36,39
+2015,2015.44.1.8.7,Wriddhiman Saha,Brad Hogg,24.957,1,1,y,6.811,0.029,0.295,0.788,84,22
+2015,2015.44.1.9.1,Wriddhiman Saha,Piyush Chawla,-1.000,1,1,y,,,,,68,67
+2015,2015.44.1.9.2,Manan Vohra,Piyush Chawla,23.597,1,1,y,3.959,-0.380,-0.107,0.513,66,25
+2015,2015.44.1.9.3,Wriddhiman Saha,Piyush Chawla,24.452,0,0,y,4.839,-0.140,-0.200,0.785,32,28
+2015,2015.44.1.9.4,Wriddhiman Saha,Piyush Chawla,22.134,3,3,y,2.904,0.168,0.422,0.659,80,16
+2015,2015.44.1.9.5,Manan Vohra,Piyush Chawla,23.715,6,6,y,3.765,-0.465,-0.716,0.565,7,59
+2015,2015.44.1.9.6,Manan Vohra,Piyush Chawla,25.704,0,0,y,4.500,-0.347,-0.201,0.619,5,5
+2015,2015.44.1.10.1,Wriddhiman Saha,Sunil Narine,25.292,1,1,y,4.892,-0.269,-0.077,0.803,40,33
+2015,2015.44.1.10.2,Manan Vohra,Sunil Narine,-1.000,0,0,y,,,,,5,5
+2015,2015.44.1.10.3,Manan Vohra,Sunil Narine,25.723,1,1,y,4.646,-0.004,-0.011,0.610,86,29
+2015,2015.44.1.10.4,Wriddhiman Saha,Sunil Narine,26.210,1,1,y,6.748,-0.358,-0.340,0.912,86,47
+2015,2015.44.1.10.5,Manan Vohra,Sunil Narine,24.581,0,0,y,5.639,-0.206,0.007,0.798,0,0
+2015,2015.44.1.10.6,Glenn Maxwell,Sunil Narine,-1.000,0,0,y,,,,,52,30
+2015,2015.44.1.11.1,Wriddhiman Saha,Piyush Chawla,-1.000,2,2,y,,,,,80,66
+2015,2015.44.1.11.2,Wriddhiman Saha,Piyush Chawla,24.669,2,2,y,4.839,-0.613,-0.646,0.836,14,24
+2015,2015.44.1.11.3,Wriddhiman Saha,Piyush Chawla,-1.000,2,2,y,,,,,10,37
+2015,2015.44.1.11.4,Wriddhiman Saha,Piyush Chawla,24.664,1,1,y,4.546,-0.103,0.189,0.776,85,22
+2015,2015.44.1.11.5,Glenn Maxwell,Piyush Chawla,24.283,2,2,y,4.761,-0.490,-0.292,0.559,11,48
+2015,2015.44.1.11.6,Glenn Maxwell,Piyush Chawla,25.033,1,1,y,3.701,-0.001,-0.098,0.907,64,81
+2015,2015.44.1.12.1,Glenn Maxwell,Andre Russell,37.595,0,0,y,8.643,-0.224,0.044,1.017,51,29
+2015,2015.44.1.12.2,Wriddhiman Saha,Andre Russell,40.302,1,1,y,5.098,-0.285,-0.206,0.638,42,54
+2015,2015.44.1.12.3,Glenn Maxwell,Andre Russell,32.865,1,1,y,11.499,-0.514,-0.207,1.285,44,24
+2015,2015.44.1.12.4,Wriddhiman Saha,Andre Russell,40.106,0,1,y,9.328,0.109,0.768,0.972,5,5
+2015,2015.44.1.12.5,Wriddhiman Saha,Andre Russell,38.459,1,1,y,10.010,-0.437,-0.198,1.009,87,40
+2015,2015.44.1.12.6,Glenn Maxwell,Andre Russell,-1.000,0,0,y,,,,,5,5
+2015,2015.44.1.12.7,Glenn Maxwell,Andre Russell,38.237,6,6,y,11.465,-0.690,-0.531,1.272,95,29
+2015,2015.44.1.13.1,Wriddhiman Saha,Piyush Chawla,-1.000,1,1,y,,,,,86,26
+2015,2015.44.1.13.2,Glenn Maxwell,Piyush Chawla,-1.000,1,1,y,,,,,88,46
+2015,2015.44.1.13.3,Wriddhiman Saha,Piyush Chawla,23.346,1,1,y,4.844,-0.059,-0.119,0.610,55,24
+2015,2015.44.1.13.4,Glenn Maxwell,Piyush Chawla,25.459,4,4,y,4.571,-0.229,-0.333,0.631,24,9
+2015,2015.44.1.13.5,Glenn Maxwell,Piyush Chawla,24.269,6,6,y,4.629,-0.362,-0.424,0.888,54,96
+2015,2015.44.1.13.6,Glenn Maxwell,Piyush Chawla,24.517,1,1,y,5.710,-0.611,-0.605,0.783,13,41
+2015,2015.44.1.14.1,Glenn Maxwell,Brad Hogg,23.846,4,4,y,3.787,-0.243,-0.116,0.841,68,92
+2015,2015.44.1.14.2,Glenn Maxwell,Brad Hogg,22.823,4,4,y,4.097,-0.080,-0.530,0.803,29,8
+2015,2015.44.1.14.3,Glenn Maxwell,Brad Hogg,23.737,6,6,y,7.160,-0.151,-0.051,0.784,95,43
+2015,2015.44.1.14.4,Glenn Maxwell,Brad Hogg,22.476,0,0,y,4.375,-0.105,-0.732,0.664,5,5
+2015,2015.44.1.14.5,Glenn Maxwell,Brad Hogg,-1.000,0,0,y,,,,,5,5
+2015,2015.44.1.14.6,Wriddhiman Saha,Brad Hogg,22.369,6,6,y,1.228,0.085,0.049,0.388,95,38
+2015,2015.44.1.15.1,Glenn Maxwell,Umesh Yadav,-1.000,1,1,y,,,,,86,29
+2015,2015.44.1.15.2,Wriddhiman Saha,Umesh Yadav,-1.000,1,1,y,0.524,-0.179,-0.158,0.093,40,48
+2015,2015.44.1.15.3,Glenn Maxwell,Umesh Yadav,-1.000,4,4,y,1.204,0.277,0.316,0.237,62,6
+2015,2015.44.1.15.4,Glenn Maxwell,Umesh Yadav,-1.000,0,0,y,-1.158,-0.045,-0.101,0.192,62,43
+2015,2015.44.1.15.5,Glenn Maxwell,Umesh Yadav,-1.000,1,1,y,2.992,-0.412,-0.321,0.318,11,40
+2015,2015.44.1.15.6,Wriddhiman Saha,Umesh Yadav,-1.000,0,0,y,-0.702,0.442,0.381,0.132,53,25
+2015,2015.44.1.16.1,Glenn Maxwell,Sunil Narine,-1.000,1,1,y,7.006,-0.233,0.243,0.636,76,44
+2015,2015.44.1.16.2,Wriddhiman Saha,Sunil Narine,-1.000,1,1,y,,,,,81,57
+2015,2015.44.1.16.3,Glenn Maxwell,Sunil Narine,-1.000,0,0,y,6.431,-0.161,0.102,0.632,0,0
+2015,2015.44.1.16.4,Wriddhiman Saha,Sunil Narine,-1.000,0,0,y,,,,,53,30
+2015,2015.44.1.16.5,Wriddhiman Saha,Sunil Narine,27.015,6,6,y,4.892,-0.223,-0.081,0.665,93,58
+2015,2015.44.1.16.6,Wriddhiman Saha,Sunil Narine,-1.000,0,0,y,6.190,-0.183,0.114,0.633,0,0
+2015,2015.44.1.17.1,David Miller,Brad Hogg,-1.000,1,1,n,,,,,12,35
+2015,2015.44.1.17.2,Gurkeerat Mann Singh,Brad Hogg,24.497,1,1,y,3.126,-0.248,-1.122,0.850,15,52
+2015,2015.44.1.17.3,David Miller,Brad Hogg,-1.000,0,0,n,,,,,43,28
+2015,2015.44.1.17.4,Gurkeerat Mann Singh,Brad Hogg,22.643,0,0,y,4.698,0.010,-0.488,0.697,5,5
+2015,2015.44.1.17.5,Gurkeerat Mann Singh,Brad Hogg,24.721,0,0,y,4.515,-0.150,-0.770,1.304,40,41
+2015,2015.44.1.17.6,Gurkeerat Mann Singh,Brad Hogg,-1.000,1,1,y,,,,,65,26
+2015,2015.44.1.18.1,Gurkeerat Mann Singh,Umesh Yadav,39.517,1,1,y,3.039,-0.246,-0.113,0.385,76,65
+2015,2015.44.1.18.2,David Miller,Umesh Yadav,37.790,1,1,n,-2.015,0.576,0.402,0.340,71,73
+2015,2015.44.1.18.3,Gurkeerat Mann Singh,Umesh Yadav,39.673,0,2,y,1.484,0.304,0.421,0.224,5,5
+2015,2015.44.1.18.4,David Miller,Umesh Yadav,-1.000,2,2,n,,,,,21,50
+2015,2015.44.1.18.5,David Miller,Umesh Yadav,37.864,1,1,n,1.657,0.283,0.421,0.224,78,15
+2015,2015.44.1.18.6,Gurkeerat Mann Singh,Umesh Yadav,40.787,1,1,y,3.934,-0.465,-0.310,0.417,71,73
+2015,2015.44.1.18.7,David Miller,Umesh Yadav,-1.000,1,1,n,-3.342,0.544,0.313,0.515,52,69
+2015,2015.44.1.19.1,David Miller,Andre Russell,-1.000,6,6,n,5.241,0.233,0.560,0.578,76,86
+2015,2015.44.1.19.2,David Miller,Andre Russell,34.355,1,1,n,11.363,-0.361,0.120,0.982,66,27
+2015,2015.44.1.19.3,Gurkeerat Mann Singh,Andre Russell,39.025,0,0,y,11.707,-0.447,-0.310,1.593,0,0
+2015,2015.44.1.19.4,David Miller,Andre Russell,-1.000,6,6,n,3.983,-0.237,-0.172,0.451,9,55
+2015,2015.44.1.19.5,David Miller,Andre Russell,37.684,4,4,n,12.031,-0.358,-0.052,1.792,11,20
+2015,2015.44.1.19.6,David Miller,Andre Russell,39.055,4,4,n,0.677,0.611,0.647,0.108,93,24
+2015,2015.44.2.0.1,Robin Uthappa,Sandeep Sharma,36.499,0,0,y,8.369,-0.504,-0.128,0.971,5,5
+2015,2015.44.2.0.2,Robin Uthappa,Sandeep Sharma,34.198,0,0,y,9.082,-0.711,-0.665,0.919,51,27
+2015,2015.44.2.0.3,Robin Uthappa,Sandeep Sharma,-1.000,1,1,y,,,,,27,37
+2015,2015.44.2.0.4,Gautam Gambhir,Sandeep Sharma,34.332,4,4,n,7.900,-0.143,0.036,0.653,16,16
+2015,2015.44.2.0.5,Gautam Gambhir,Sandeep Sharma,34.779,0,0,n,8.848,-0.092,0.130,0.855,49,39
+2015,2015.44.2.0.6,Gautam Gambhir,Sandeep Sharma,-1.000,0,0,n,,,,,5,5
+2015,2015.44.2.1.1,Robin Uthappa,Beuran Hendricks,-1.000,0,0,y,,,,,34,39
+2015,2015.44.2.1.2,Robin Uthappa,Beuran Hendricks,38.338,1,1,y,8.304,-0.120,-0.669,1.015,21,16
+2015,2015.44.2.1.3,Gautam Gambhir,Beuran Hendricks,37.297,0,0,n,8.833,0.264,0.078,1.014,35,39
+2015,2015.44.2.1.4,Gautam Gambhir,Beuran Hendricks,38.597,4,4,n,9.561,0.129,-0.427,1.262,26,10
+2015,2015.44.2.1.5,Gautam Gambhir,Beuran Hendricks,37.173,1,1,n,11.047,0.341,-0.052,1.493,16,20
+2015,2015.44.2.1.6,Robin Uthappa,Beuran Hendricks,37.148,4,4,y,9.756,0.286,0.122,0.945,70,9
+2015,2015.44.2.2.1,Gautam Gambhir,Sandeep Sharma,38.534,0,0,n,10.218,-0.011,0.343,1.313,67,36
+2015,2015.44.2.2.2,Gautam Gambhir,Sandeep Sharma,33.259,4,4,n,6.218,0.244,0.615,0.560,88,68
+2015,2015.44.2.2.3,Gautam Gambhir,Sandeep Sharma,32.633,1,1,n,8.074,0.023,0.362,0.844,66,11
+2015,2015.44.2.2.4,Robin Uthappa,Sandeep Sharma,-1.000,4,4,y,,,,,70,91
+2015,2015.44.2.2.5,Robin Uthappa,Sandeep Sharma,-1.000,1,1,y,,,,,41,56
+2015,2015.44.2.2.6,Gautam Gambhir,Sandeep Sharma,34.242,0,0,n,8.927,0.071,0.420,0.946,64,28
+2015,2015.44.2.3.1,Robin Uthappa,Anureet Singh,36.222,2,2,y,8.331,-0.521,-0.524,0.719,78,27
+2015,2015.44.2.3.2,Robin Uthappa,Anureet Singh,36.165,4,4,y,4.382,-0.791,-0.894,0.511,10,58
+2015,2015.44.2.3.3,Robin Uthappa,Anureet Singh,36.038,0,0,y,9.113,-0.217,-0.053,0.885,0,0
+2015,2015.44.2.3.4,Manish Pandey,Anureet Singh,36.093,4,4,y,7.966,-0.468,-0.494,0.728,6,38
+2015,2015.44.2.3.5,Manish Pandey,Anureet Singh,35.386,1,1,y,9.943,-0.261,-0.343,1.223,54,56
+2015,2015.44.2.3.6,Gautam Gambhir,Anureet Singh,-1.000,4,4,n,,,,,6,41
+2015,2015.44.2.4.1,Manish Pandey,Sandeep Sharma,36.507,0,0,y,9.945,-0.230,-0.330,1.106,31,41
+2015,2015.44.2.4.2,Manish Pandey,Sandeep Sharma,37.640,1,1,y,10.583,-0.265,-0.281,1.114,34,46
+2015,2015.44.2.4.3,Gautam Gambhir,Sandeep Sharma,37.999,1,1,n,6.810,0.107,0.307,0.676,13,27
+2015,2015.44.2.4.4,Manish Pandey,Sandeep Sharma,-1.000,4,4,y,,,,,8,51
+2015,2015.44.2.4.5,Manish Pandey,Sandeep Sharma,37.953,0,1,y,10.015,-0.316,-0.542,2.367,5,5
+2015,2015.44.2.4.6,Manish Pandey,Sandeep Sharma,35.807,4,4,y,7.625,-0.212,-0.168,0.760,14,70
+2015,2015.44.2.4.7,Manish Pandey,Sandeep Sharma,-1.000,4,4,y,,,,,90,63
+2015,2015.44.2.5.1,Gautam Gambhir,Axar Patel,25.553,1,1,n,4.183,-0.291,-0.293,0.534,41,23
+2015,2015.44.2.5.2,Manish Pandey,Axar Patel,24.570,0,0,y,5.947,-0.223,-0.368,0.739,5,5
+2015,2015.44.2.5.3,Manish Pandey,Axar Patel,25.314,1,1,y,6.195,-0.182,0.058,0.658,65,61
+2015,2015.44.2.5.4,Gautam Gambhir,Axar Patel,24.676,0,0,n,4.351,-0.230,0.011,0.541,5,5
+2015,2015.44.2.5.5,Gautam Gambhir,Axar Patel,24.725,0,0,n,4.945,-0.179,0.001,0.646,36,28
+2015,2015.44.2.5.6,Gautam Gambhir,Axar Patel,27.652,0,0,n,3.135,-0.035,0.055,0.467,51,40
+2015,2015.44.2.6.1,Manish Pandey,Gurkeerat Mann Singh,-1.000,1,1,y,,,,,69,78
+2015,2015.44.2.6.2,Gautam Gambhir,Gurkeerat Mann Singh,21.822,0,0,n,5.064,0.104,0.226,0.842,68,44
+2015,2015.44.2.6.3,Gautam Gambhir,Gurkeerat Mann Singh,21.333,1,1,n,3.744,0.172,0.456,1.158,86,54
+2015,2015.44.2.6.4,Manish Pandey,Gurkeerat Mann Singh,24.052,0,0,y,2.392,-0.423,-0.178,0.430,52,42
+2015,2015.44.2.6.5,Manish Pandey,Gurkeerat Mann Singh,25.496,0,1,y,5.495,-0.014,0.586,0.649,5,5
+2015,2015.44.2.6.6,Manish Pandey,Gurkeerat Mann Singh,-1.000,0,0,y,,,,,54,43
+2015,2015.44.2.6.7,Manish Pandey,Gurkeerat Mann Singh,-1.000,1,1,y,,,,,34,29
+2015,2015.44.2.7.1,Manish Pandey,Glenn Maxwell,23.577,1,1,y,6.807,-0.826,-0.637,0.707,36,72
+2015,2015.44.2.7.2,Gautam Gambhir,Glenn Maxwell,-1.000,1,1,n,,,,,16,42
+2015,2015.44.2.7.3,Manish Pandey,Glenn Maxwell,24.701,0,0,y,5.581,-0.810,-0.676,0.744,0,0
+2015,2015.44.2.7.4,Suryakumar Yadav,Glenn Maxwell,25.330,1,1,y,4.084,-0.569,-0.361,0.735,71,64
+2015,2015.44.2.7.5,Gautam Gambhir,Glenn Maxwell,23.769,1,1,n,5.704,-0.040,-0.123,0.658,20,25
+2015,2015.44.2.7.6,Suryakumar Yadav,Glenn Maxwell,26.436,1,1,y,6.074,-0.750,-0.368,0.977,79,53
+2015,2015.44.2.8.1,Suryakumar Yadav,Gurkeerat Mann Singh,-1.000,1,1,y,3.460,-0.491,0.532,0.335,87,25
+2015,2015.44.2.8.2,Gautam Gambhir,Gurkeerat Mann Singh,21.359,1,1,n,5.126,-0.020,0.300,0.814,66,72
+2015,2015.44.2.8.3,Suryakumar Yadav,Gurkeerat Mann Singh,22.738,1,1,y,4.030,-0.199,0.172,0.587,75,64
+2015,2015.44.2.8.4,Gautam Gambhir,Gurkeerat Mann Singh,24.320,0,0,n,4.554,0.259,0.372,0.616,59,22
+2015,2015.44.2.8.5,Gautam Gambhir,Gurkeerat Mann Singh,23.240,0,0,n,5.506,0.224,0.426,0.797,0,0
+2015,2015.44.2.8.6,Suryakumar Yadav,Gurkeerat Mann Singh,-1.000,0,0,y,,,,,5,5
+2015,2015.44.2.9.1,Yusuf Pathan,Beuran Hendricks,-1.000,0,0,y,,,,,5,5
+2015,2015.44.2.9.2,Yusuf Pathan,Beuran Hendricks,-1.000,0,0,y,,,,,34,39
+2015,2015.44.2.9.3,Yusuf Pathan,Beuran Hendricks,-1.000,0,0,y,,,,,66,42
+2015,2015.44.2.9.4,Yusuf Pathan,Beuran Hendricks,33.682,1,1,y,6.637,-0.460,-0.227,0.794,32,11
+2015,2015.44.2.9.5,Suryakumar Yadav,Beuran Hendricks,31.340,4,4,y,4.407,-0.392,-0.126,0.797,35,90
+2015,2015.44.2.9.6,Suryakumar Yadav,Beuran Hendricks,38.609,0,0,y,1.721,-0.158,-0.070,0.237,64,47
+2015,2015.44.2.10.1,Yusuf Pathan,Gurkeerat Mann Singh,25.604,6,6,y,4.478,-0.355,-0.222,0.753,88,72
+2015,2015.44.2.10.2,Yusuf Pathan,Gurkeerat Mann Singh,-1.000,1,1,y,,,,,81,57
+2015,2015.44.2.10.3,Suryakumar Yadav,Gurkeerat Mann Singh,22.927,1,1,y,4.548,-0.489,-0.080,0.708,82,49
+2015,2015.44.2.10.4,Yusuf Pathan,Gurkeerat Mann Singh,26.831,1,1,y,5.566,-0.327,-0.194,0.529,27,69
+2015,2015.44.2.10.5,Suryakumar Yadav,Gurkeerat Mann Singh,23.349,0,0,y,2.880,-0.144,-0.110,0.473,0,0
+2015,2015.44.2.10.6,Andre Russell,Gurkeerat Mann Singh,-1.000,0,1,y,,,,,5,5
+2015,2015.44.2.10.7,Andre Russell,Gurkeerat Mann Singh,-1.000,0,0,y,4.506,-0.470,-0.227,0.613,44,39
+2015,2015.44.2.11.1,Yusuf Pathan,Axar Patel,-1.000,0,0,y,7.217,-0.260,-0.217,0.673,63,42
+2015,2015.44.2.11.2,Yusuf Pathan,Axar Patel,-1.000,0,0,y,4.338,-0.143,-0.155,0.638,36,41
+2015,2015.44.2.11.3,Yusuf Pathan,Axar Patel,-1.000,1,1,y,4.757,-0.464,-0.374,0.600,74,71
+2015,2015.44.2.11.4,Andre Russell,Axar Patel,24.581,0,0,y,4.815,-0.127,-0.107,0.754,59,43
+2015,2015.44.2.11.5,Andre Russell,Axar Patel,24.399,0,0,y,5.944,-0.194,-0.200,0.655,37,35
+2015,2015.44.2.11.6,Andre Russell,Axar Patel,27.336,1,1,y,4.762,-0.432,-0.339,0.638,14,51
+2015,2015.44.2.12.1,Andre Russell,Anureet Singh,36.524,4,4,y,6.201,-0.302,-0.298,0.670,34,7
+2015,2015.44.2.12.2,Andre Russell,Anureet Singh,-1.000,1,1,y,,,,,31,76
+2015,2015.44.2.12.3,Yusuf Pathan,Anureet Singh,-1.000,1,1,y,8.990,-0.576,-0.473,0.823,68,40
+2015,2015.44.2.12.4,Andre Russell,Anureet Singh,-1.000,4,4,y,,,,,60,6
+2015,2015.44.2.12.5,Andre Russell,Anureet Singh,-1.000,6,6,y,,,,,95,51
+2015,2015.44.2.12.6,Andre Russell,Anureet Singh,-1.000,0,0,y,,,,,36,41
+2015,2015.44.2.13.1,Yusuf Pathan,Axar Patel,-1.000,6,6,y,,,,,53,95
+2015,2015.44.2.13.2,Yusuf Pathan,Axar Patel,25.494,0,0,y,5.457,-0.304,-0.336,0.632,5,5
+2015,2015.44.2.13.3,Yusuf Pathan,Axar Patel,25.660,6,6,y,4.669,-0.443,-0.405,0.647,31,90
+2015,2015.44.2.13.4,Yusuf Pathan,Axar Patel,25.543,1,1,y,5.415,-0.236,-0.197,0.621,33,34
+2015,2015.44.2.13.5,Andre Russell,Axar Patel,-1.000,6,6,y,,,,,53,94
+2015,2015.44.2.13.6,Andre Russell,Axar Patel,-1.000,0,1,y,,,,,5,5
+2015,2015.44.2.13.7,Andre Russell,Axar Patel,-1.000,4,4,y,,,,,32,7
+2015,2015.44.2.14.1,Yusuf Pathan,Beuran Hendricks,-1.000,1,1,y,,,,,13,48
+2015,2015.44.2.14.2,Andre Russell,Beuran Hendricks,35.419,4,4,y,8.081,-0.675,-0.479,0.759,8,28
+2015,2015.44.2.14.3,Andre Russell,Beuran Hendricks,38.790,1,1,y,5.613,-0.218,0.123,0.513,84,47
+2015,2015.44.2.14.4,Yusuf Pathan,Beuran Hendricks,38.571,0,0,y,12.045,-0.664,-0.065,1.549,5,5
+2015,2015.44.2.14.5,Yusuf Pathan,Beuran Hendricks,39.338,4,4,y,11.572,-0.390,0.504,1.329,65,7
+2015,2015.44.2.14.6,Yusuf Pathan,Beuran Hendricks,37.726,0,0,y,12.284,-0.752,-0.219,1.768,0,0
+2015,2015.44.2.15.1,Andre Russell,Anureet Singh,34.958,6,6,y,-5.712,0.024,0.321,0.810,86,13
+2015,2015.44.2.15.2,Andre Russell,Anureet Singh,36.559,1,1,y,1.540,0.162,0.087,0.196,56,29
+2015,2015.44.2.15.3,Johan Botha,Anureet Singh,-1.000,0,0,y,,,,,44,27
+2015,2015.44.2.15.4,Andre Russell,Anureet Singh,37.826,4,4,y,0.206,0.004,-0.007,0.050,91,61
+2015,2015.44.2.15.5,Andre Russell,Anureet Singh,36.449,6,6,y,-1.338,-0.269,-0.302,0.249,82,79
+2015,2015.44.2.15.6,Andre Russell,Anureet Singh,32.585,1,1,y,5.888,-0.433,-0.268,0.572,69,76
+2015,2015.44.2.16.1,Andre Russell,Axar Patel,25.770,1,1,y,8.066,-0.382,-0.320,0.827,40,64
+2015,2015.44.2.16.2,Johan Botha,Axar Patel,-1.000,1,1,y,,,,,39,23
+2015,2015.44.2.16.3,Andre Russell,Axar Patel,26.005,1,1,y,6.464,-0.262,-0.152,0.859,34,40
+2015,2015.44.2.16.4,Johan Botha,Axar Patel,28.035,1,1,y,4.175,-0.154,-0.022,0.605,31,69
+2015,2015.44.2.16.5,Andre Russell,Axar Patel,26.485,0,0,y,5.234,-0.444,-0.678,0.715,0,0
+2015,2015.44.2.16.6,Piyush Chawla,Axar Patel,28.676,1,1,n,3.479,-0.160,-0.245,0.396,28,34
+2015,2015.44.2.17.1,Piyush Chawla,Beuran Hendricks,36.110,0,0,n,8.791,0.168,-0.150,0.818,59,32
+2015,2015.44.2.17.2,Johan Botha,Beuran Hendricks,37.871,0,0,y,2.908,-0.419,-0.293,0.388,0,0
+2015,2015.44.2.17.3,Piyush Chawla,Beuran Hendricks,37.492,1,1,n,6.150,0.167,-0.019,0.634,60,71
+2015,2015.44.2.17.4,Brad Hogg,Beuran Hendricks,37.225,1,1,n,11.814,0.464,0.410,1.683,77,16
+2015,2015.44.2.17.5,Piyush Chawla,Beuran Hendricks,35.337,4,4,n,12.477,0.524,0.383,1.945,61,5
+2015,2015.44.2.17.6,Piyush Chawla,Beuran Hendricks,38.872,4,4,n,8.018,0.565,0.648,0.896,90,20
+2015,2015.44.2.18.1,Brad Hogg,Sandeep Sharma,35.494,1,1,n,-0.612,0.856,0.810,0.137,65,63
+2015,2015.44.2.18.2,Piyush Chawla,Sandeep Sharma,35.117,0,0,n,3.425,-0.170,-0.163,0.410,63,39
+2015,2015.44.2.18.3,Piyush Chawla,Sandeep Sharma,37.059,1,1,n,4.767,-0.090,0.037,0.497,36,76
+2015,2015.44.2.18.4,Brad Hogg,Sandeep Sharma,-1.000,1,1,n,,,,,64,65
+2015,2015.44.2.18.5,Piyush Chawla,Sandeep Sharma,34.617,1,1,n,3.084,0.318,0.469,0.423,89,37
+2015,2015.44.2.18.6,Brad Hogg,Sandeep Sharma,-1.000,1,1,n,,,,,86,44
+2015,2015.44.2.19.1,Brad Hogg,Anureet Singh,-1.000,1,1,n,,,,,42,70
+2015,2015.44.2.19.2,Piyush Chawla,Anureet Singh,37.028,0,0,n,2.202,-0.597,-0.727,0.089,0,0
+2015,2015.44.2.19.3,Piyush Chawla,Anureet Singh,37.366,6,6,n,6.279,-0.643,-0.613,0.548,8,56
+2015,2015.44.2.19.4,Piyush Chawla,Anureet Singh,36.985,0,0,n,11.425,-0.481,-0.717,1.463,0,0
+2015,2015.44.2.19.5,Sunil Narine,Anureet Singh,37.495,0,0,n,4.439,-0.266,-0.190,0.536,38,26

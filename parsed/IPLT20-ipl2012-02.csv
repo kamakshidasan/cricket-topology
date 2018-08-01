@@ -1,0 +1,143 @@
+YEAR,INNINGS_OVER_BALL,BATSMAN,BOWLER,BOWL_SPEED,CREDIT,DEBIT,IS_RHB,PITCHED_X,PITCHED_Y,STUMPS_Y,STUMPS_Z,LANDING_X,LANDING_Y
+2012,2012.2.1.0.1,Brendon McCullum,Irfan Pathan,-1.000,0,0,y,,,,,58,43
+2012,2012.2.1.0.2,Brendon McCullum,Irfan Pathan,-1.000,4,4,y,,,,,93,45
+2012,2012.2.1.0.3,Brendon McCullum,Irfan Pathan,-1.000,1,1,y,,,,,74,51
+2012,2012.2.1.0.4,Jacques Kallis,Irfan Pathan,-1.000,0,0,y,,,,,58,57
+2012,2012.2.1.0.5,Jacques Kallis,Irfan Pathan,-1.000,0,0,y,,,,,52,36
+2012,2012.2.1.0.6,Jacques Kallis,Irfan Pathan,-1.000,4,4,y,,,,,92,57
+2012,2012.2.1.1.1,Brendon McCullum,Roelof van der Merwe,-1.000,0,0,y,,,,,40,30
+2012,2012.2.1.1.2,Brendon McCullum,Roelof van der Merwe,24.229,4,4,y,5.278,0.078,0.306,0.665,94,27
+2012,2012.2.1.1.3,Brendon McCullum,Roelof van der Merwe,22.623,0,0,y,5.275,0.078,0.404,0.773,40,36
+2012,2012.2.1.1.4,Brendon McCullum,Roelof van der Merwe,-1.000,0,1,y,,,,,5,5
+2012,2012.2.1.1.5,Brendon McCullum,Roelof van der Merwe,23.827,0,0,y,4.735,-0.183,-0.017,0.633,0,0
+2012,2012.2.1.1.6,Gautam Gambhir,Roelof van der Merwe,22.712,0,0,y,6.200,-0.013,-0.073,0.794,36,33
+2012,2012.2.1.1.7,Gautam Gambhir,Roelof van der Merwe,22.712,1,1,y,6.200,-0.013,-0.073,0.794,38,25
+2012,2012.2.1.2.1,Gautam Gambhir,Morne Morkel,-1.000,0,0,y,,,,,5,5
+2012,2012.2.1.2.2,Gautam Gambhir,Morne Morkel,38.731,4,4,y,5.051,0.020,-0.238,0.624,21,78
+2012,2012.2.1.2.3,Gautam Gambhir,Morne Morkel,37.838,1,1,y,10.531,0.343,0.018,1.192,76,29
+2012,2012.2.1.2.4,Jacques Kallis,Morne Morkel,37.838,0,0,y,2.652,-0.018,0.212,0.443,0,0
+2012,2012.2.1.2.5,Manoj Tiwary,Morne Morkel,38.061,0,0,y,-0.229,0.057,0.045,0.073,0,0
+2012,2012.2.1.2.6,Yusuf Pathan,Morne Morkel,37.258,0,0,y,-0.229,0.057,0.045,0.073,5,5
+2012,2012.2.1.3.1,Gautam Gambhir,Umesh Yadav,22.712,1,1,y,8.331,-0.074,0.369,0.540,56,53
+2012,2012.2.1.3.2,Yusuf Pathan,Umesh Yadav,-1.000,0,0,y,,,,,5,5
+2012,2012.2.1.3.3,Gautam Gambhir,Umesh Yadav,-1.000,4,4,y,,,,,94,44
+2012,2012.2.1.3.4,Gautam Gambhir,Umesh Yadav,-1.000,1,1,y,,,,,70,16
+2012,2012.2.1.3.5,Yusuf Pathan,Umesh Yadav,38.731,0,0,y,6.108,-0.344,-0.239,0.475,50,39
+2012,2012.2.1.3.6,Yusuf Pathan,Umesh Yadav,38.998,0,0,y,11.362,-0.305,-0.080,0.959,0,0
+2012,2012.2.1.4.1,Gautam Gambhir,Morne Morkel,-1.000,0,0,y,,,,,65,38
+2012,2012.2.1.4.2,Gautam Gambhir,Morne Morkel,38.106,1,1,y,5.149,0.146,-0.183,0.655,26,43
+2012,2012.2.1.4.3,Debabrata Das,Morne Morkel,37.035,2,2,y,7.052,-0.487,-0.366,0.829,33,10
+2012,2012.2.1.4.4,Debabrata Das,Morne Morkel,37.704,0,0,y,10.366,-0.571,-0.307,1.198,5,5
+2012,2012.2.1.4.5,Debabrata Das,Morne Morkel,38.240,0,0,y,10.653,-0.468,-0.308,1.328,5,5
+2012,2012.2.1.4.6,Debabrata Das,Morne Morkel,37.080,0,0,y,8.305,-0.263,0.250,1.096,5,5
+2012,2012.2.1.5.1,Gautam Gambhir,Glenn Maxwell,38.998,1,1,y,5.076,0.467,0.457,0.713,68,24
+2012,2012.2.1.5.2,Debabrata Das,Glenn Maxwell,25.519,0,1,y,7.296,0.112,0.662,0.927,5,5
+2012,2012.2.1.5.3,Debabrata Das,Glenn Maxwell,23.247,1,1,y,7.478,-0.080,-0.281,0.536,82,50
+2012,2012.2.1.5.4,Gautam Gambhir,Glenn Maxwell,-1.000,0,0,y,,,,,5,5
+2012,2012.2.1.5.5,Gautam Gambhir,Glenn Maxwell,-1.000,1,1,y,,,,,82,36
+2012,2012.2.1.5.6,Debabrata Das,Glenn Maxwell,24.184,2,2,y,7.100,-0.007,-0.065,0.769,81,64
+2012,2012.2.1.5.7,Debabrata Das,Glenn Maxwell,-1.000,6,6,y,,,,,67,95
+2012,2012.2.1.6.1,Gautam Gambhir,Morne Morkel,38.061,1,1,y,5.331,0.480,0.350,0.436,86,27
+2012,2012.2.1.6.2,Debabrata Das,Morne Morkel,38.284,6,6,y,7.137,-0.493,-0.304,0.777,75,90
+2012,2012.2.1.6.3,Debabrata Das,Morne Morkel,39.266,1,1,y,6.569,-0.319,-0.124,0.594,40,41
+2012,2012.2.1.6.4,Gautam Gambhir,Morne Morkel,38.731,0,0,y,10.299,0.433,0.097,0.991,0,0
+2012,2012.2.1.6.5,Laxmi Ratan Shukla,Morne Morkel,39.534,1,1,y,11.143,-0.469,-0.199,1.277,65,43
+2012,2012.2.1.6.6,Rajat Bhatia,Morne Morkel,39.525,1,1,y,8.678,-0.437,-0.319,0.990,21,21
+2012,2012.2.1.7.1,Rajat Bhatia,Shahbaz Nadeem,24.251,0,0,y,10.564,-0.384,-0.048,-0.495,43,36
+2012,2012.2.1.7.2,Rajat Bhatia,Shahbaz Nadeem,38.378,1,1,y,7.315,-0.404,-0.830,0.646,14,39
+2012,2012.2.1.7.3,Laxmi Ratan Shukla,Shahbaz Nadeem,-1.000,2,2,y,,,,,64,11
+2012,2012.2.1.7.4,Laxmi Ratan Shukla,Shahbaz Nadeem,22.980,1,1,y,8.354,-0.367,-0.491,0.671,17,37
+2012,2012.2.1.7.5,Rajat Bhatia,Shahbaz Nadeem,23.924,1,1,y,6.677,-0.176,-0.349,0.637,70,23
+2012,2012.2.1.7.6,Laxmi Ratan Shukla,Shahbaz Nadeem,25.002,1,1,y,7.360,-0.213,-0.440,0.612,48,72
+2012,2012.2.1.8.1,Laxmi Ratan Shukla,Roelof van der Merwe,-1.000,0,0,y,,,,,5,5
+2012,2012.2.1.8.2,Laxmi Ratan Shukla,Roelof van der Merwe,24.541,6,6,y,4.895,0.043,0.127,0.707,6,61
+2012,2012.2.1.8.3,Laxmi Ratan Shukla,Roelof van der Merwe,26.340,2,2,y,3.522,-0.211,-0.104,0.507,66,81
+2012,2012.2.1.8.4,Laxmi Ratan Shukla,Roelof van der Merwe,25.032,4,4,y,5.784,-0.020,0.235,0.681,7,33
+2012,2012.2.1.8.5,Laxmi Ratan Shukla,Roelof van der Merwe,23.649,0,0,y,7.354,0.004,0.330,0.777,5,5
+2012,2012.2.1.8.6,Laxmi Ratan Shukla,Roelof van der Merwe,25.612,1,1,y,3.517,0.044,0.253,0.382,68,83
+2012,2012.2.1.9.1,Laxmi Ratan Shukla,Shahbaz Nadeem,25.263,6,6,y,6.440,0.159,0.438,0.333,80,85
+2012,2012.2.1.9.2,Laxmi Ratan Shukla,Shahbaz Nadeem,27.547,1,1,y,0.682,0.168,0.222,0.815,40,68
+2012,2012.2.1.9.3,Rajat Bhatia,Shahbaz Nadeem,22.372,1,1,y,7.693,-0.153,-0.168,0.834,86,46
+2012,2012.2.1.9.4,Laxmi Ratan Shukla,Shahbaz Nadeem,27.125,1,1,y,0.414,0.113,0.148,0.595,37,89
+2012,2012.2.1.9.5,Rajat Bhatia,Shahbaz Nadeem,25.935,1,1,y,6.293,-0.195,-0.499,0.823,32,74
+2012,2012.2.1.9.6,Laxmi Ratan Shukla,Shahbaz Nadeem,26.240,0,0,y,4.058,0.154,0.487,0.337,5,5
+2012,2012.2.1.10.1,Rajat Bhatia,Umesh Yadav,38.597,1,1,y,2.869,-0.088,0.042,0.333,52,73
+2012,2012.2.1.10.2,Laxmi Ratan Shukla,Umesh Yadav,39.088,0,0,y,12.760,-0.299,-0.088,1.579,5,5
+2012,2012.2.1.10.3,Laxmi Ratan Shukla,Umesh Yadav,39.245,0,0,y,3.400,-0.549,-0.426,0.294,5,5
+2012,2012.2.1.10.4,Laxmi Ratan Shukla,Umesh Yadav,38.813,0,0,y,5.569,-0.366,-0.138,0.511,0,0
+2012,2012.2.1.10.5,Rajat Bhatia,Umesh Yadav,40.222,1,1,y,2.894,-0.397,-0.349,0.289,18,33
+2012,2012.2.1.10.6,Brett Lee,Umesh Yadav,38.061,1,1,y,5.098,-0.141,0.060,0.480,64,76
+2012,2012.2.1.11.1,Brett Lee,Roelof van der Merwe,28.693,1,1,y,0.239,-0.120,-0.101,0.337,60,64
+2012,2012.2.1.11.2,Rajat Bhatia,Roelof van der Merwe,29.980,0,0,y,2.155,-0.188,-0.175,0.259,0,0
+2012,2012.2.1.11.3,Iqbal Abdulla,Roelof van der Merwe,-1.000,1,1,y,,,,,26,67
+2012,2012.2.1.11.4,Brett Lee,Roelof van der Merwe,25.657,6,6,y,-0.087,-0.142,-0.147,0.056,38,93
+2012,2012.2.1.11.5,Brett Lee,Roelof van der Merwe,24.452,0,0,y,5.772,0.141,0.457,0.713,5,5
+2012,2012.2.1.11.6,Brett Lee,Roelof van der Merwe,29.769,1,1,y,2.292,0.014,0.176,0.635,74,47
+2012,2012.2.2.0.1,Aaron Finch,Brett Lee,39.489,1,1,y,2.337,0.014,0.064,0.493,57,44
+2012,2012.2.2.0.2,Virender Sehwag,Brett Lee,38.329,1,1,y,11.016,-0.009,0.106,1.420,78,17
+2012,2012.2.2.0.3,Aaron Finch,Brett Lee,37.704,2,2,y,7.198,-0.035,0.097,0.522,82,36
+2012,2012.2.2.0.4,Aaron Finch,Brett Lee,38.731,0,0,y,7.567,-0.194,-0.230,0.654,37,39
+2012,2012.2.2.0.5,Aaron Finch,Brett Lee,39.489,0,0,y,9.257,-0.381,-0.326,0.798,5,5
+2012,2012.2.2.0.6,Aaron Finch,Brett Lee,39.177,1,1,y,6.630,-0.198,-0.215,0.571,38,51
+2012,2012.2.2.1.1,Aaron Finch,Marchant de Lange,39.445,0,0,y,9.800,-0.297,-0.203,1.276,44,35
+2012,2012.2.2.1.2,Aaron Finch,Marchant de Lange,37.883,1,1,y,9.483,-0.212,0.001,0.791,62,41
+2012,2012.2.2.1.3,Virender Sehwag,Marchant de Lange,37.838,1,1,y,9.420,-0.190,0.143,1.002,83,20
+2012,2012.2.2.1.4,Aaron Finch,Marchant de Lange,39.668,0,1,y,12.778,-0.107,0.420,1.590,5,5
+2012,2012.2.2.1.5,Aaron Finch,Marchant de Lange,38.508,0,0,y,8.316,-0.341,-0.105,0.818,46,39
+2012,2012.2.2.1.6,Aaron Finch,Marchant de Lange,40.296,4,4,y,3.792,-0.161,-0.050,0.456,86,69
+2012,2012.2.2.1.7,Aaron Finch,Marchant de Lange,39.043,4,4,y,10.640,-0.541,-0.560,1.300,7,31
+2012,2012.2.2.2.1,Virender Sehwag,Brett Lee,39.311,1,1,y,11.632,-0.194,0.010,1.560,68,29
+2012,2012.2.2.2.2,Aaron Finch,Brett Lee,38.240,0,0,y,8.314,-0.215,-0.237,0.743,36,31
+2012,2012.2.2.2.3,Aaron Finch,Brett Lee,37.615,4,4,y,9.046,-0.378,-0.392,1.041,18,15
+2012,2012.2.2.2.4,Aaron Finch,Brett Lee,37.749,4,4,y,1.049,-0.005,0.023,0.231,87,68
+2012,2012.2.2.2.5,Aaron Finch,Brett Lee,38.731,0,0,y,4.370,-0.033,0.056,0.564,66,42
+2012,2012.2.2.2.6,Aaron Finch,Brett Lee,38.061,1,1,y,8.057,-0.357,-0.375,0.736,32,12
+2012,2012.2.2.3.1,Aaron Finch,Iqbal Abdulla,25.422,1,1,y,4.949,0.058,0.192,0.681,62,29
+2012,2012.2.2.3.2,Virender Sehwag,Iqbal Abdulla,26.279,6,6,y,5.248,-0.262,-0.274,0.525,72,94
+2012,2012.2.2.3.3,Virender Sehwag,Iqbal Abdulla,25.907,1,1,y,6.100,-0.093,0.173,0.471,76,45
+2012,2012.2.2.3.4,Aaron Finch,Iqbal Abdulla,25.121,0,0,y,6.100,-0.108,0.082,0.471,46,39
+2012,2012.2.2.3.5,Aaron Finch,Iqbal Abdulla,25.700,0,0,y,5.533,0.546,0.918,0.780,48,38
+2012,2012.2.2.3.6,Aaron Finch,Iqbal Abdulla,28.166,0,0,y,6.088,0.123,0.261,0.635,65,33
+2012,2012.2.2.4.1,Virender Sehwag,Jacques Kallis,38.061,1,1,y,6.168,-0.475,-0.394,0.518,22,24
+2012,2012.2.2.4.2,Aaron Finch,Jacques Kallis,35.786,0,0,y,8.606,-0.471,-0.028,1.001,48,27
+2012,2012.2.2.4.3,Aaron Finch,Jacques Kallis,36.946,2,2,y,7.351,-0.530,-0.455,0.750,40,8
+2012,2012.2.2.4.4,Aaron Finch,Jacques Kallis,36.990,0,0,y,7.168,-0.444,-0.405,0.792,5,5
+2012,2012.2.2.4.5,Aaron Finch,Jacques Kallis,35.964,0,0,y,7.168,-0.444,-0.405,0.792,5,5
+2012,2012.2.2.4.6,Virender Sehwag,Jacques Kallis,36.634,1,1,y,7.699,-0.503,-0.388,0.747,30,72
+2012,2012.2.2.5.1,Virender Sehwag,Marchant de Lange,39.400,1,1,y,10.837,-0.330,-0.047,1.407,44,34
+2012,2012.2.2.5.2,Aaron Finch,Marchant de Lange,39.534,4,4,y,10.255,-0.183,0.212,1.309,76,10
+2012,2012.2.2.5.3,Aaron Finch,Marchant de Lange,39.355,1,1,y,9.776,-0.297,0.167,1.249,83,19
+2012,2012.2.2.5.4,Virender Sehwag,Marchant de Lange,38.710,1,1,y,0.392,-0.036,-0.028,0.102,70,74
+2012,2012.2.2.5.5,Aaron Finch,Marchant de Lange,38.284,0,0,y,11.677,-0.292,0.032,1.526,5,5
+2012,2012.2.2.5.6,Virender Sehwag,Marchant de Lange,38.886,1,1,y,2.173,-0.024,0.329,0.310,64,50
+2012,2012.2.2.6.1,Virender Sehwag,Jacques Kallis,-1.000,1,1,y,,,,,79,62
+2012,2012.2.2.6.2,Aaron Finch,Jacques Kallis,37.080,0,0,y,7.953,-0.292,-0.008,0.766,0,0
+2012,2012.2.2.6.3,Irfan Pathan,Jacques Kallis,38.665,2,2,y,3.440,0.052,0.229,0.389,24,22
+2012,2012.2.2.6.4,Irfan Pathan,Jacques Kallis,36.946,0,0,y,8.301,0.017,0.580,0.822,63,39
+2012,2012.2.2.6.5,Irfan Pathan,Jacques Kallis,36.098,1,1,y,11.216,-0.380,0.038,1.043,12,32
+2012,2012.2.2.6.6,Virender Sehwag,Jacques Kallis,37.035,4,4,y,8.130,-0.533,-0.413,0.836,10,23
+2012,2012.2.2.7.1,Irfan Pathan,Rajat Bhatia,30.192,1,1,y,7.091,-0.116,-0.021,0.754,29,63
+2012,2012.2.2.7.2,Virender Sehwag,Rajat Bhatia,31.770,0,0,y,7.296,-0.218,-0.166,0.627,0,0
+2012,2012.2.2.7.3,Glenn Maxwell,Rajat Bhatia,30.431,0,0,y,7.432,-0.505,-0.582,0.616,36,40
+2012,2012.2.2.7.4,Glenn Maxwell,Rajat Bhatia,27.978,1,1,y,5.221,-0.149,-0.050,0.629,78,35
+2012,2012.2.2.7.5,Irfan Pathan,Rajat Bhatia,27.121,1,1,y,5.863,-0.208,0.010,0.702,26,57
+2012,2012.2.2.7.6,Glenn Maxwell,Rajat Bhatia,33.242,0,0,y,5.610,-0.004,0.222,0.590,5,5
+2012,2012.2.2.8.1,Irfan Pathan,Jacques Kallis,37.214,2,2,y,7.132,-0.137,0.280,0.661,87,32
+2012,2012.2.2.8.2,Irfan Pathan,Jacques Kallis,37.214,0,0,y,6.677,-0.222,0.081,0.529,67,39
+2012,2012.2.2.8.3,Irfan Pathan,Jacques Kallis,37.214,1,1,y,6.677,-0.222,0.081,0.529,26,72
+2012,2012.2.2.8.4,Glenn Maxwell,Jacques Kallis,-1.000,1,1,y,,,,,80,52
+2012,2012.2.2.8.5,Irfan Pathan,Jacques Kallis,-1.000,6,6,y,,,,,6,69
+2012,2012.2.2.8.6,Irfan Pathan,Jacques Kallis,-1.000,1,1,y,,,,,68,39
+2012,2012.2.2.9.1,Irfan Pathan,Marchant de Lange,-1.000,6,6,y,,,,,6,58
+2012,2012.2.2.9.2,Irfan Pathan,Marchant de Lange,-1.000,1,1,y,,,,,59,47
+2012,2012.2.2.9.3,Glenn Maxwell,Marchant de Lange,-1.000,1,1,y,,,,,68,44
+2012,2012.2.2.9.4,Irfan Pathan,Marchant de Lange,-1.000,2,2,y,,,,,15,62
+2012,2012.2.2.9.5,Irfan Pathan,Marchant de Lange,-1.000,6,6,y,,,,,27,93
+2012,2012.2.2.9.6,Irfan Pathan,Marchant de Lange,-1.000,1,1,y,,,,,33,30
+2012,2012.2.2.10.1,Irfan Pathan,Yusuf Pathan,-1.000,1,1,y,,,,,18,48
+2012,2012.2.2.10.2,Glenn Maxwell,Yusuf Pathan,-1.000,0,0,y,,,,,5,5
+2012,2012.2.2.10.3,Irfan Pathan,Yusuf Pathan,-1.000,1,1,y,,,,,83,37
+2012,2012.2.2.10.4,Glenn Maxwell,Yusuf Pathan,-1.000,0,0,y,,,,,5,5
+2012,2012.2.2.10.5,Irfan Pathan,Yusuf Pathan,-1.000,4,4,y,,,,,88,68
+2012,2012.2.2.10.6,Irfan Pathan,Yusuf Pathan,-1.000,1,1,y,,,,,27,43
+2012,2012.2.2.11.1,Irfan Pathan,Rajat Bhatia,-1.000,4,4,y,,,,,7,28

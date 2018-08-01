@@ -1,0 +1,246 @@
+YEAR,INNINGS_OVER_BALL,BATSMAN,BOWLER,BOWL_SPEED,CREDIT,DEBIT,IS_RHB,PITCHED_X,PITCHED_Y,STUMPS_Y,STUMPS_Z,LANDING_X,LANDING_Y
+2012,2012.24.1.0.1,Faf du Plessis,Murali Kartik,23.783,0,0,y,4.697,-0.095,-0.431,0.491,34,28
+2012,2012.24.1.0.2,Faf du Plessis,Murali Kartik,24.854,1,1,y,6.426,0.078,0.251,0.535,75,46
+2012,2012.24.1.0.3,Subramaniam Badrinath,Murali Kartik,22.316,0,0,y,5.522,-0.406,-0.746,0.679,36,28
+2012,2012.24.1.0.4,Subramaniam Badrinath,Murali Kartik,24.067,4,4,y,6.419,-0.226,-0.323,0.724,13,19
+2012,2012.24.1.0.5,Subramaniam Badrinath,Murali Kartik,22.730,1,1,y,3.247,-0.032,0.030,0.567,70,47
+2012,2012.24.1.0.6,Faf du Plessis,Murali Kartik,25.387,0,0,y,6.302,-0.265,-0.305,0.739,34,27
+2012,2012.24.1.1.1,Subramaniam Badrinath,Ashish Nehra,36.544,0,0,y,8.323,-0.225,-0.559,0.832,5,5
+2012,2012.24.1.1.2,Subramaniam Badrinath,Ashish Nehra,38.106,0,0,y,7.240,0.008,-0.007,0.773,5,5
+2012,2012.24.1.1.3,Subramaniam Badrinath,Ashish Nehra,36.774,0,0,y,5.168,-0.101,-0.179,0.355,58,59
+2012,2012.24.1.1.4,Subramaniam Badrinath,Ashish Nehra,38.308,0,0,y,12.081,0.223,-0.047,1.494,5,5
+2012,2012.24.1.1.5,Subramaniam Badrinath,Ashish Nehra,35.497,1,1,y,6.961,-0.039,-0.256,0.857,55,50
+2012,2012.24.1.1.6,Faf du Plessis,Ashish Nehra,36.362,1,1,y,7.352,-0.006,-0.308,0.561,29,13
+2012,2012.24.1.2.1,Faf du Plessis,Murali Kartik,23.938,1,1,y,5.705,-0.052,-0.015,0.528,68,40
+2012,2012.24.1.2.2,Subramaniam Badrinath,Murali Kartik,23.877,0,0,y,4.336,0.133,-0.157,0.757,5,5
+2012,2012.24.1.2.3,Subramaniam Badrinath,Murali Kartik,-1.000,0,0,y,,,,,35,26
+2012,2012.24.1.2.4,Subramaniam Badrinath,Murali Kartik,-1.000,0,0,y,,,,,62,57
+2012,2012.24.1.2.5,Subramaniam Badrinath,Murali Kartik,23.457,0,0,y,5.185,-0.041,-0.051,0.702,35,26
+2012,2012.24.1.2.6,Subramaniam Badrinath,Murali Kartik,24.164,0,0,y,5.343,-0.096,-0.079,0.717,34,26
+2012,2012.24.1.3.1,Faf du Plessis,Bhuvneshwar Kumar,36.127,0,0,y,7.426,-0.284,-0.099,0.438,36,40
+2012,2012.24.1.3.2,Faf du Plessis,Bhuvneshwar Kumar,36.678,2,2,y,7.731,-0.192,0.020,0.734,16,48
+2012,2012.24.1.3.3,Faf du Plessis,Bhuvneshwar Kumar,38.311,0,0,y,9.122,-0.668,-0.868,1.063,5,5
+2012,2012.24.1.3.4,Faf du Plessis,Bhuvneshwar Kumar,32.854,2,2,y,6.111,-0.179,0.054,0.463,75,44
+2012,2012.24.1.3.5,Faf du Plessis,Bhuvneshwar Kumar,36.362,0,0,y,7.911,-0.450,-0.338,0.867,45,27
+2012,2012.24.1.3.6,Faf du Plessis,Bhuvneshwar Kumar,36.651,4,4,y,8.054,-0.292,-0.306,0.748,26,10
+2012,2012.24.1.4.1,Subramaniam Badrinath,Marlon Samuels,25.429,4,4,y,4.929,-0.262,0.017,0.664,33,88
+2012,2012.24.1.4.2,Subramaniam Badrinath,Marlon Samuels,26.130,4,4,y,7.137,-0.588,-0.339,0.854,14,18
+2012,2012.24.1.4.3,Subramaniam Badrinath,Marlon Samuels,25.874,1,1,y,7.169,-0.407,-0.072,0.665,72,70
+2012,2012.24.1.4.4,Faf du Plessis,Marlon Samuels,26.997,1,1,y,7.381,-0.332,0.185,0.835,62,69
+2012,2012.24.1.4.5,Subramaniam Badrinath,Marlon Samuels,26.245,1,1,y,5.365,-0.260,0.185,0.799,70,38
+2012,2012.24.1.4.6,Faf du Plessis,Marlon Samuels,26.669,0,0,y,7.569,-0.340,0.332,0.808,70,28
+2012,2012.24.1.5.1,Subramaniam Badrinath,Bhuvneshwar Kumar,36.337,0,0,y,8.917,-0.316,-0.053,0.837,64,23
+2012,2012.24.1.5.2,Subramaniam Badrinath,Bhuvneshwar Kumar,36.086,1,1,y,8.942,-0.218,0.179,0.673,72,47
+2012,2012.24.1.5.3,Faf du Plessis,Bhuvneshwar Kumar,32.007,6,6,y,5.641,-0.306,-0.118,0.606,66,93
+2012,2012.24.1.5.4,Faf du Plessis,Bhuvneshwar Kumar,36.853,0,0,y,8.348,-0.129,0.354,0.802,5,5
+2012,2012.24.1.5.5,Faf du Plessis,Bhuvneshwar Kumar,37.288,4,4,y,7.899,-0.128,0.159,0.647,26,84
+2012,2012.24.1.5.6,Faf du Plessis,Bhuvneshwar Kumar,36.730,1,2,y,9.577,-0.355,0.135,0.884,65,72
+2012,2012.24.1.5.7,Subramaniam Badrinath,Bhuvneshwar Kumar,31.026,1,1,y,8.764,-0.365,-0.119,0.759,86,40
+2012,2012.24.1.6.1,Subramaniam Badrinath,Rahul Sharma,24.586,1,1,y,5.109,-0.214,-0.275,0.755,42,20
+2012,2012.24.1.6.2,Faf du Plessis,Rahul Sharma,25.935,0,0,y,4.760,-0.290,-0.375,0.535,5,5
+2012,2012.24.1.6.3,Faf du Plessis,Rahul Sharma,26.461,0,0,y,4.324,-0.013,-0.009,0.592,50,42
+2012,2012.24.1.6.4,Faf du Plessis,Rahul Sharma,26.114,0,0,y,7.109,-0.179,-0.223,0.853,5,5
+2012,2012.24.1.6.5,Faf du Plessis,Rahul Sharma,26.764,0,0,y,4.295,-0.218,-0.238,0.579,34,47
+2012,2012.24.1.6.6,Faf du Plessis,Rahul Sharma,26.575,0,0,y,7.154,-0.326,-0.414,0.683,33,27
+2012,2012.24.1.7.1,Subramaniam Badrinath,Angelo Mathews,29.808,4,4,y,6.047,-0.377,-0.185,0.615,65,8
+2012,2012.24.1.7.2,Subramaniam Badrinath,Angelo Mathews,34.592,0,0,y,1.488,0.074,0.133,0.235,45,42
+2012,2012.24.1.7.3,Subramaniam Badrinath,Angelo Mathews,29.152,1,1,y,6.258,-0.321,-0.121,0.661,42,76
+2012,2012.24.1.7.4,Faf du Plessis,Angelo Mathews,34.688,2,2,y,4.433,-0.154,0.064,0.373,58,79
+2012,2012.24.1.7.5,Faf du Plessis,Angelo Mathews,29.287,1,1,y,5.794,-0.424,-0.257,0.500,37,74
+2012,2012.24.1.7.6,Subramaniam Badrinath,Angelo Mathews,34.529,4,4,y,4.324,-0.257,-0.156,0.567,91,56
+2012,2012.24.1.8.1,Faf du Plessis,Rahul Sharma,25.932,0,0,y,5.831,0.222,0.296,0.631,52,28
+2012,2012.24.1.8.2,Faf du Plessis,Rahul Sharma,26.014,1,1,y,5.431,-0.278,-0.279,0.718,60,51
+2012,2012.24.1.8.3,Subramaniam Badrinath,Rahul Sharma,26.683,1,1,y,4.559,-0.067,-0.073,0.553,17,49
+2012,2012.24.1.8.4,Faf du Plessis,Rahul Sharma,26.387,4,4,y,4.802,-0.234,-0.367,0.662,14,67
+2012,2012.24.1.8.5,Faf du Plessis,Rahul Sharma,26.343,2,2,y,5.310,0.014,0.019,0.641,76,44
+2012,2012.24.1.8.6,Faf du Plessis,Rahul Sharma,26.435,1,1,y,6.045,-0.215,-0.225,0.622,40,74
+2012,2012.24.1.9.1,Faf du Plessis,Ashish Nehra,36.544,1,1,y,9.700,0.148,-0.081,1.014,74,65
+2012,2012.24.1.9.2,Subramaniam Badrinath,Ashish Nehra,36.544,0,0,y,11.968,0.167,-0.559,1.299,54,42
+2012,2012.24.1.9.3,Subramaniam Badrinath,Ashish Nehra,37.900,1,1,y,11.417,0.536,0.550,1.379,86,21
+2012,2012.24.1.9.4,Faf du Plessis,Ashish Nehra,34.892,1,1,y,8.402,0.295,0.056,0.949,36,47
+2012,2012.24.1.9.5,Subramaniam Badrinath,Ashish Nehra,34.414,1,1,y,7.341,0.268,0.023,0.775,15,44
+2012,2012.24.1.9.6,Faf du Plessis,Ashish Nehra,36.991,0,0,y,3.092,-0.569,-0.828,0.443,5,5
+2012,2012.24.1.10.1,Subramaniam Badrinath,Murali Kartik,23.069,1,1,y,4.959,0.172,0.328,0.513,72,65
+2012,2012.24.1.10.2,Faf du Plessis,Murali Kartik,24.849,1,1,y,7.880,-0.419,-0.621,0.860,16,47
+2012,2012.24.1.10.3,Subramaniam Badrinath,Murali Kartik,26.365,1,1,y,-0.249,0.800,0.777,0.103,79,20
+2012,2012.24.1.10.4,Faf du Plessis,Murali Kartik,24.488,1,1,y,6.750,0.030,0.109,0.893,63,75
+2012,2012.24.1.10.5,Subramaniam Badrinath,Murali Kartik,26.405,1,1,y,5.723,0.185,0.446,0.657,61,20
+2012,2012.24.1.10.6,Faf du Plessis,Murali Kartik,24.847,1,1,y,6.704,-0.003,0.141,0.812,79,45
+2012,2012.24.1.11.1,Faf du Plessis,Marlon Samuels,25.730,0,0,y,5.890,-0.470,-0.232,0.850,5,5
+2012,2012.24.1.11.2,Faf du Plessis,Marlon Samuels,26.374,1,1,y,5.774,-0.218,0.181,0.762,79,20
+2012,2012.24.1.11.3,Subramaniam Badrinath,Marlon Samuels,-1.000,1,1,y,,,,,63,72
+2012,2012.24.1.11.4,Faf du Plessis,Marlon Samuels,-1.000,4,4,y,,,,,64,7
+2012,2012.24.1.11.5,Faf du Plessis,Marlon Samuels,27.831,2,2,y,7.722,-0.564,-0.155,0.316,82,18
+2012,2012.24.1.11.6,Faf du Plessis,Marlon Samuels,26.774,1,1,y,7.393,-0.288,0.308,0.817,74,60
+2012,2012.24.1.12.1,Faf du Plessis,Rahul Sharma,29.306,1,1,y,7.235,-0.177,-0.258,0.684,72,67
+2012,2012.24.1.12.2,Subramaniam Badrinath,Rahul Sharma,26.728,1,1,y,5.535,0.021,0.080,0.854,77,61
+2012,2012.24.1.12.3,Faf du Plessis,Rahul Sharma,23.649,2,2,y,6.353,-0.110,-0.110,0.797,14,25
+2012,2012.24.1.12.4,Faf du Plessis,Rahul Sharma,28.562,1,1,y,6.876,-0.038,-0.072,0.836,73,57
+2012,2012.24.1.12.5,Subramaniam Badrinath,Rahul Sharma,26.460,1,1,y,0.462,0.087,0.115,0.135,63,76
+2012,2012.24.1.12.6,Faf du Plessis,Rahul Sharma,27.370,0,0,y,2.345,-0.652,-0.660,0.476,33,28
+2012,2012.24.1.13.1,Subramaniam Badrinath,Murali Kartik,23.694,0,0,y,5.772,0.193,0.419,0.646,5,5
+2012,2012.24.1.13.2,Subramaniam Badrinath,Murali Kartik,25.739,2,2,y,4.982,0.216,0.169,0.839,17,46
+2012,2012.24.1.13.3,Subramaniam Badrinath,Murali Kartik,27.277,1,1,y,8.934,-0.321,-0.139,0.603,68,72
+2012,2012.24.1.13.4,Faf du Plessis,Murali Kartik,25.421,6,6,y,5.671,0.040,0.095,0.638,80,90
+2012,2012.24.1.13.5,Faf du Plessis,Murali Kartik,25.421,1,1,y,5.235,-0.378,-0.311,0.372,38,75
+2012,2012.24.1.13.6,Subramaniam Badrinath,Murali Kartik,27.148,1,1,y,5.507,-0.248,-0.218,0.503,67,62
+2012,2012.24.1.14.1,Subramaniam Badrinath,Bhuvneshwar Kumar,31.300,2,2,y,8.751,-0.318,-0.012,0.840,73,39
+2012,2012.24.1.14.2,Subramaniam Badrinath,Bhuvneshwar Kumar,-1.000,4,4,y,,,,,82,14
+2012,2012.24.1.14.3,Subramaniam Badrinath,Bhuvneshwar Kumar,-1.000,4,4,y,,,,,88,65
+2012,2012.24.1.14.4,Subramaniam Badrinath,Bhuvneshwar Kumar,-1.000,4,4,y,,,,,33,8
+2012,2012.24.1.14.5,Subramaniam Badrinath,Bhuvneshwar Kumar,38.072,0,0,y,13.000,-0.595,0.053,1.623,5,5
+2012,2012.24.1.14.6,Subramaniam Badrinath,Bhuvneshwar Kumar,32.854,1,1,y,9.081,-0.238,0.169,0.558,85,25
+2012,2012.24.1.15.1,Subramaniam Badrinath,Marlon Samuels,29.992,1,1,y,-0.717,-0.251,-0.263,0.208,78,54
+2012,2012.24.1.15.2,Faf du Plessis,Marlon Samuels,29.973,0,0,y,1.902,0.287,0.406,0.382,48,43
+2012,2012.24.1.15.3,Faf du Plessis,Marlon Samuels,25.664,0,0,y,8.249,-0.436,0.090,0.786,88,43
+2012,2012.24.1.15.4,Subramaniam Badrinath,Marlon Samuels,25.971,0,0,y,6.521,-0.392,0.048,0.795,5,5
+2012,2012.24.1.15.5,Subramaniam Badrinath,Marlon Samuels,25.506,0,0,y,5.964,-0.539,-0.218,0.797,88,56
+2012,2012.24.1.15.6,Suresh Raina,Marlon Samuels,24.934,0,0,y,7.376,-0.082,0.611,0.551,5,5
+2012,2012.24.1.16.1,MS Dhoni,Ashish Nehra,37.794,2,2,y,8.374,0.180,-0.217,0.761,36,87
+2012,2012.24.1.16.2,MS Dhoni,Ashish Nehra,37.124,1,1,y,7.008,-0.292,-0.873,0.911,39,11
+2012,2012.24.1.16.3,Suresh Raina,Ashish Nehra,38.002,0,0,y,12.841,0.373,-0.040,1.673,24,15
+2012,2012.24.1.16.4,MS Dhoni,Ashish Nehra,34.505,1,1,y,8.722,0.351,0.020,1.016,76,29
+2012,2012.24.1.16.5,Dwayne Bravo,Ashish Nehra,35.964,1,1,y,9.711,0.209,-0.153,0.849,36,33
+2012,2012.24.1.16.6,MS Dhoni,Ashish Nehra,36.367,4,4,y,4.431,-0.249,-0.535,0.420,87,69
+2012,2012.24.1.17.1,Dwayne Bravo,Rahul Sharma,25.795,3,3,y,6.776,-0.145,-0.277,1.002,35,10
+2012,2012.24.1.17.2,MS Dhoni,Rahul Sharma,26.350,1,1,y,5.773,0.042,0.011,0.852,69,49
+2012,2012.24.1.17.3,Dwayne Bravo,Rahul Sharma,26.571,0,0,y,5.937,0.099,0.173,0.683,50,41
+2012,2012.24.1.17.4,Dwayne Bravo,Rahul Sharma,27.362,2,2,y,6.186,-0.028,-0.119,0.624,34,47
+2012,2012.24.1.17.5,Dwayne Bravo,Rahul Sharma,27.406,0,0,y,1.677,-0.673,-0.701,0.302,5,5
+2012,2012.24.1.17.6,Dwayne Bravo,Rahul Sharma,26.147,6,6,y,6.014,-0.388,-0.540,0.693,76,87
+2012,2012.24.1.18.1,MS Dhoni,Ashish Nehra,36.607,1,1,y,2.952,-0.229,-0.361,0.165,64,73
+2012,2012.24.1.18.2,Dwayne Bravo,Ashish Nehra,-1.000,0,0,y,,,,,5,5
+2012,2012.24.1.18.3,MS Dhoni,Ashish Nehra,36.797,2,2,y,2.394,-0.404,-0.534,0.161,38,78
+2012,2012.24.1.18.4,MS Dhoni,Ashish Nehra,36.781,1,1,y,-1.131,-0.586,-0.507,0.222,84,53
+2012,2012.24.1.18.5,Dwayne Bravo,Ashish Nehra,34.496,0,0,y,3.979,-0.169,-0.439,0.435,18,56
+2012,2012.24.1.18.6,MS Dhoni,Ashish Nehra,36.658,4,4,y,3.584,-0.313,-0.566,0.363,58,93
+2012,2012.24.1.19.1,Ravindra Jadeja,Marlon Samuels,30.943,6,6,y,4.348,-0.034,0.243,0.571,38,94
+2012,2012.24.1.19.2,Ravindra Jadeja,Marlon Samuels,27.323,1,1,y,8.273,-0.522,-0.046,0.864,17,53
+2012,2012.24.1.19.3,MS Dhoni,Marlon Samuels,30.795,6,6,y,4.359,-0.343,-0.219,0.585,70,93
+2012,2012.24.1.19.4,MS Dhoni,Marlon Samuels,33.782,4,4,y,2.512,0.078,0.254,0.496,92,55
+2012,2012.24.1.19.5,MS Dhoni,Marlon Samuels,33.846,1,1,y,0.769,-0.317,-0.308,0.150,68,83
+2012,2012.24.1.19.6,Ravindra Jadeja,Marlon Samuels,28.493,0,0,y,6.004,-0.366,0.000,0.794,12,45
+2012,2012.24.2.0.1,Robin Uthappa,Doug Bollinger,38.017,0,0,y,7.849,0.124,-0.373,0.760,40,23
+2012,2012.24.2.0.2,Robin Uthappa,Doug Bollinger,38.918,4,4,y,6.256,-0.093,-0.504,0.548,36,7
+2012,2012.24.2.0.3,Robin Uthappa,Doug Bollinger,38.560,0,0,y,9.616,0.221,0.236,1.082,5,5
+2012,2012.24.2.0.4,Jesse Ryder,Doug Bollinger,39.571,4,4,y,9.487,0.263,0.074,1.123,8,45
+2012,2012.24.2.0.5,Jesse Ryder,Doug Bollinger,38.788,0,0,y,10.445,0.293,-0.223,1.367,55,31
+2012,2012.24.2.0.6,Jesse Ryder,Doug Bollinger,38.659,0,0,y,4.535,0.138,-0.087,0.464,45,60
+2012,2012.24.2.1.1,Robin Uthappa,Nuwan Kulasekara,35.473,4,4,y,7.238,-0.448,-0.422,0.636,33,88
+2012,2012.24.2.1.2,Robin Uthappa,Nuwan Kulasekara,36.432,0,0,y,7.553,-0.370,-0.224,0.790,43,61
+2012,2012.24.2.1.3,Sourav Ganguly,Nuwan Kulasekara,36.146,0,0,y,7.258,-0.032,0.225,0.771,62,51
+2012,2012.24.2.1.4,Sourav Ganguly,Nuwan Kulasekara,37.736,2,2,y,11.501,-0.241,0.482,1.286,14,49
+2012,2012.24.2.1.5,Sourav Ganguly,Nuwan Kulasekara,36.272,0,0,y,8.862,-0.110,0.194,0.834,68,46
+2012,2012.24.2.1.6,Sourav Ganguly,Nuwan Kulasekara,36.719,0,0,y,7.930,0.017,0.269,0.674,56,57
+2012,2012.24.2.2.1,Jesse Ryder,Ravichandran Ashwin,23.105,0,0,y,4.109,0.264,0.343,0.738,67,27
+2012,2012.24.2.2.2,Jesse Ryder,Ravichandran Ashwin,24.655,0,0,y,4.916,0.222,-0.048,0.698,56,37
+2012,2012.24.2.2.3,Jesse Ryder,Ravichandran Ashwin,21.760,1,1,y,5.920,0.443,0.735,0.490,42,61
+2012,2012.24.2.2.4,Sourav Ganguly,Ravichandran Ashwin,23.397,0,0,y,5.839,0.055,-0.213,0.691,5,5
+2012,2012.24.2.2.5,Sourav Ganguly,Ravichandran Ashwin,23.104,0,0,y,6.115,0.299,0.531,0.580,66,40
+2012,2012.24.2.2.6,Sourav Ganguly,Ravichandran Ashwin,23.289,4,4,y,5.608,0.182,0.277,0.533,12,20
+2012,2012.24.2.3.1,Jesse Ryder,Nuwan Kulasekara,35.736,0,0,y,7.600,-0.048,0.171,0.484,5,5
+2012,2012.24.2.3.2,Jesse Ryder,Nuwan Kulasekara,36.601,4,4,y,3.977,0.157,0.348,0.386,54,94
+2012,2012.24.2.3.3,Jesse Ryder,Nuwan Kulasekara,36.229,0,0,y,8.744,-0.195,-0.026,0.753,31,28
+2012,2012.24.2.3.4,Jesse Ryder,Nuwan Kulasekara,33.509,0,0,y,9.218,-0.191,0.024,0.852,15,44
+2012,2012.24.2.3.5,Manish Pandey,Nuwan Kulasekara,36.066,0,0,y,8.089,-0.346,-0.043,0.841,50,42
+2012,2012.24.2.3.6,Manish Pandey,Nuwan Kulasekara,35.420,0,0,y,7.454,-0.502,-0.408,0.800,5,5
+2012,2012.24.2.4.1,Sourav Ganguly,Ravichandran Ashwin,23.182,0,0,y,4.160,0.167,0.061,0.597,53,43
+2012,2012.24.2.4.2,Sourav Ganguly,Ravichandran Ashwin,22.158,0,0,y,6.006,0.164,0.350,0.707,68,48
+2012,2012.24.2.4.3,Sourav Ganguly,Ravichandran Ashwin,26.041,0,0,y,5.390,0.229,-0.005,0.498,56,43
+2012,2012.24.2.4.4,Sourav Ganguly,Ravichandran Ashwin,21.497,1,1,y,5.489,-0.184,-0.468,0.739,39,22
+2012,2012.24.2.4.5,Manish Pandey,Ravichandran Ashwin,25.379,2,2,y,3.644,0.297,0.551,0.644,84,35
+2012,2012.24.2.4.6,Manish Pandey,Ravichandran Ashwin,24.686,6,6,y,4.275,0.203,0.332,0.671,77,90
+2012,2012.24.2.5.1,Sourav Ganguly,Doug Bollinger,38.998,0,0,y,9.805,0.332,-0.064,1.001,71,36
+2012,2012.24.2.5.2,Sourav Ganguly,Doug Bollinger,38.090,4,4,y,10.080,0.288,-0.043,1.184,16,15
+2012,2012.24.2.5.3,Sourav Ganguly,Doug Bollinger,38.240,1,1,y,10.796,0.179,-0.433,1.288,32,45
+2012,2012.24.2.5.4,Manish Pandey,Doug Bollinger,34.660,5,5,y,9.643,0.065,-0.190,0.903,34,42
+2012,2012.24.2.5.5,Sourav Ganguly,Doug Bollinger,38.264,4,4,y,0.642,-0.361,-0.399,0.107,13,19
+2012,2012.24.2.5.6,Sourav Ganguly,Doug Bollinger,37.681,4,4,y,3.325,0.104,-0.010,0.431,10,57
+2012,2012.24.2.6.1,Manish Pandey,Dwayne Bravo,34.499,0,0,y,5.296,-0.290,-0.183,0.622,21,62
+2012,2012.24.2.6.2,Sourav Ganguly,Dwayne Bravo,37.451,0,0,y,11.601,-0.163,0.328,1.382,63,23
+2012,2012.24.2.6.3,Sourav Ganguly,Dwayne Bravo,34.998,1,1,y,10.191,0.034,0.664,1.082,68,11
+2012,2012.24.2.6.4,Marlon Samuels,Dwayne Bravo,36.396,0,0,y,2.130,0.032,0.109,0.245,49,40
+2012,2012.24.2.6.5,Marlon Samuels,Dwayne Bravo,36.827,1,1,y,10.423,-0.343,-0.265,1.095,26,25
+2012,2012.24.2.6.6,Sourav Ganguly,Dwayne Bravo,37.780,0,0,y,12.254,-0.294,-0.021,1.710,5,5
+2012,2012.24.2.7.1,Marlon Samuels,Shadab Jakati,24.332,0,0,y,4.607,-0.173,-0.278,0.654,39,37
+2012,2012.24.2.7.2,Marlon Samuels,Shadab Jakati,23.782,0,0,y,6.051,-0.273,-0.152,0.702,5,5
+2012,2012.24.2.7.3,Sourav Ganguly,Shadab Jakati,24.148,1,1,y,5.993,0.384,-0.022,0.587,24,42
+2012,2012.24.2.7.4,Marlon Samuels,Shadab Jakati,23.932,1,1,y,6.766,-0.338,-0.424,0.565,12,42
+2012,2012.24.2.7.5,Sourav Ganguly,Shadab Jakati,25.166,0,0,y,5.747,0.577,0.452,0.410,65,25
+2012,2012.24.2.7.6,Sourav Ganguly,Shadab Jakati,24.304,1,1,y,6.664,0.512,0.197,0.737,38,60
+2012,2012.24.2.8.1,Sourav Ganguly,Ravindra Jadeja,27.600,1,1,y,7.606,0.136,-0.146,0.727,22,40
+2012,2012.24.2.8.2,Marlon Samuels,Ravindra Jadeja,25.668,0,0,y,5.050,-0.076,0.195,0.804,49,43
+2012,2012.24.2.8.3,Marlon Samuels,Ravindra Jadeja,27.915,0,0,y,5.704,-0.218,0.150,0.621,68,43
+2012,2012.24.2.8.4,Marlon Samuels,Ravindra Jadeja,26.600,1,1,y,6.505,-0.050,0.302,0.536,79,37
+2012,2012.24.2.8.5,Sourav Ganguly,Ravindra Jadeja,28.564,0,0,y,3.178,0.290,0.322,0.330,52,43
+2012,2012.24.2.8.6,Sourav Ganguly,Ravindra Jadeja,28.855,0,0,y,7.678,-0.052,-0.403,0.525,35,24
+2012,2012.24.2.9.1,Marlon Samuels,Shadab Jakati,25.273,2,2,y,5.579,-0.008,0.395,0.749,70,11
+2012,2012.24.2.9.2,Marlon Samuels,Shadab Jakati,24.898,0,0,y,7.579,-0.354,-0.474,0.845,5,5
+2012,2012.24.2.9.3,Marlon Samuels,Shadab Jakati,24.127,1,1,y,5.025,-0.156,-0.119,0.741,80,35
+2012,2012.24.2.9.4,Sourav Ganguly,Shadab Jakati,24.541,0,0,y,7.471,0.526,0.233,0.783,36,65
+2012,2012.24.2.9.5,Marlon Samuels,Shadab Jakati,24.380,0,0,y,4.931,-0.220,-0.310,0.679,5,5
+2012,2012.24.2.9.6,Marlon Samuels,Shadab Jakati,24.737,1,1,y,3.866,-0.015,0.030,0.528,54,43
+2012,2012.24.2.10.1,Marlon Samuels,Ravindra Jadeja,25.875,1,1,y,4.775,-0.219,0.020,0.678,58,69
+2012,2012.24.2.10.2,Steve Smith,Ravindra Jadeja,23.796,2,2,y,4.261,-0.479,-0.380,0.608,22,31
+2012,2012.24.2.10.3,Steve Smith,Ravindra Jadeja,27.945,1,1,y,4.437,-0.505,-0.549,0.636,14,51
+2012,2012.24.2.10.4,Marlon Samuels,Ravindra Jadeja,24.964,0,0,y,6.701,-0.298,-0.131,0.865,5,5
+2012,2012.24.2.10.5,Steve Smith,Ravindra Jadeja,27.956,0,0,y,4.183,-0.306,-0.211,0.525,54,43
+2012,2012.24.2.10.6,Steve Smith,Ravindra Jadeja,26.667,0,1,y,6.263,-0.030,0.471,0.640,5,5
+2012,2012.24.2.10.7,Steve Smith,Ravindra Jadeja,25.511,1,1,y,5.938,-0.307,-0.124,0.655,79,24
+2012,2012.24.2.11.1,Steve Smith,Shadab Jakati,23.712,1,1,y,6.289,-0.311,-0.231,0.671,23,40
+2012,2012.24.2.11.2,Marlon Samuels,Shadab Jakati,24.389,2,2,y,4.326,-0.040,0.058,0.476,64,84
+2012,2012.24.2.11.3,Marlon Samuels,Shadab Jakati,25.347,4,4,y,9.537,-0.652,-0.918,0.680,13,18
+2012,2012.24.2.11.4,Marlon Samuels,Shadab Jakati,-1.000,2,2,y,,,,,28,70
+2012,2012.24.2.11.5,Marlon Samuels,Shadab Jakati,26.058,0,0,y,6.047,-0.488,-0.368,0.510,45,29
+2012,2012.24.2.11.6,Marlon Samuels,Shadab Jakati,25.149,4,4,y,3.984,-0.129,-0.095,0.663,38,92
+2012,2012.24.2.12.1,Steve Smith,Dwayne Bravo,37.883,1,1,y,3.867,-0.134,-0.024,0.431,61,68
+2012,2012.24.2.12.2,Marlon Samuels,Dwayne Bravo,37.775,6,6,y,12.346,-0.230,0.259,1.502,91,14
+2012,2012.24.2.12.3,Marlon Samuels,Dwayne Bravo,37.526,0,0,y,7.340,-0.311,-0.189,0.503,33,27
+2012,2012.24.2.12.4,Marlon Samuels,Dwayne Bravo,36.793,0,0,y,6.055,-0.024,0.345,0.671,5,5
+2012,2012.24.2.12.5,Steve Smith,Dwayne Bravo,30.955,2,2,y,8.453,-0.451,-0.319,0.774,42,8
+2012,2012.24.2.12.6,Steve Smith,Dwayne Bravo,37.503,1,1,y,5.910,0.046,0.311,0.385,71,26
+2012,2012.24.2.13.1,Steve Smith,Ravichandran Ashwin,24.407,1,1,y,3.695,-0.510,-0.186,0.702,74,24
+2012,2012.24.2.13.2,Marlon Samuels,Ravichandran Ashwin,21.317,0,0,y,2.937,-0.440,-0.403,0.650,32,44
+2012,2012.24.2.13.3,Angelo Mathews,Ravichandran Ashwin,23.045,1,1,y,5.211,-0.620,-0.397,0.839,30,27
+2012,2012.24.2.13.4,Steve Smith,Ravichandran Ashwin,23.476,1,1,y,5.031,-0.414,-0.093,0.785,75,41
+2012,2012.24.2.13.5,Angelo Mathews,Ravichandran Ashwin,21.300,0,0,y,3.729,-0.487,-0.416,0.751,49,44
+2012,2012.24.2.13.6,Angelo Mathews,Ravichandran Ashwin,21.683,1,1,y,4.482,-0.432,-0.378,0.579,38,39
+2012,2012.24.2.14.1,Angelo Mathews,Ravindra Jadeja,24.317,2,2,y,1.400,-0.046,0.048,0.327,74,70
+2012,2012.24.2.14.2,Angelo Mathews,Ravindra Jadeja,27.626,1,1,y,8.030,-0.371,-0.036,0.750,78,64
+2012,2012.24.2.14.3,Steve Smith,Ravindra Jadeja,27.885,1,1,y,4.831,-0.247,-0.076,0.654,30,42
+2012,2012.24.2.14.4,Angelo Mathews,Ravindra Jadeja,28.134,1,1,y,6.217,-0.098,0.215,0.421,70,45
+2012,2012.24.2.14.5,Steve Smith,Ravindra Jadeja,27.883,1,1,y,6.896,-0.275,0.016,0.619,33,26
+2012,2012.24.2.14.6,Angelo Mathews,Ravindra Jadeja,27.740,1,1,y,3.424,0.211,0.443,0.389,79,51
+2012,2012.24.2.15.1,Angelo Mathews,Ravichandran Ashwin,22.821,2,2,y,5.029,-0.048,0.294,0.945,72,42
+2012,2012.24.2.15.2,Angelo Mathews,Ravichandran Ashwin,24.321,1,1,y,3.204,0.005,-0.150,0.519,80,57
+2012,2012.24.2.15.3,Steve Smith,Ravichandran Ashwin,23.681,1,2,y,5.963,-0.301,-0.055,0.490,81,42
+2012,2012.24.2.15.4,Angelo Mathews,Ravichandran Ashwin,22.846,4,4,y,6.017,-0.297,0.040,0.670,91,57
+2012,2012.24.2.15.5,Angelo Mathews,Ravichandran Ashwin,24.448,0,5,y,2.424,0.273,0.274,0.398,5,5
+2012,2012.24.2.15.6,Angelo Mathews,Ravichandran Ashwin,21.686,1,1,y,2.886,-0.337,-0.242,0.649,71,31
+2012,2012.24.2.15.7,Steve Smith,Ravichandran Ashwin,23.616,1,1,y,3.664,0.144,0.166,0.577,77,49
+2012,2012.24.2.15.8,Angelo Mathews,Ravichandran Ashwin,24.677,1,1,y,7.044,-0.268,-0.327,0.720,29,43
+2012,2012.24.2.16.1,Angelo Mathews,Ravindra Jadeja,26.549,1,1,y,7.506,-0.274,-0.148,0.605,35,52
+2012,2012.24.2.16.2,Steve Smith,Ravindra Jadeja,27.425,1,1,y,2.807,-0.506,-0.572,0.470,30,70
+2012,2012.24.2.16.3,Angelo Mathews,Ravindra Jadeja,28.650,2,2,y,5.554,-0.227,0.052,0.550,81,68
+2012,2012.24.2.16.4,Angelo Mathews,Ravindra Jadeja,28.169,1,1,y,6.247,0.058,0.471,0.541,84,35
+2012,2012.24.2.16.5,Steve Smith,Ravindra Jadeja,28.876,0,0,y,2.251,-0.188,-0.097,0.373,51,42
+2012,2012.24.2.16.6,Steve Smith,Ravindra Jadeja,28.942,1,1,y,6.390,-0.189,0.136,0.610,85,24
+2012,2012.24.2.17.1,Steve Smith,Dwayne Bravo,35.220,2,2,y,1.541,-0.261,-0.190,0.223,75,48
+2012,2012.24.2.17.2,Steve Smith,Dwayne Bravo,37.529,1,1,y,1.309,-0.082,-0.003,0.180,68,75
+2012,2012.24.2.17.3,Angelo Mathews,Dwayne Bravo,36.059,2,2,y,-2.201,0.076,-0.039,0.408,68,84
+2012,2012.24.2.17.4,Angelo Mathews,Dwayne Bravo,36.942,1,1,y,4.322,-0.715,-0.662,0.424,30,46
+2012,2012.24.2.17.5,Steve Smith,Dwayne Bravo,36.626,3,3,y,2.300,-0.383,-0.259,0.303,14,21
+2012,2012.24.2.17.6,Angelo Mathews,Dwayne Bravo,36.613,1,1,y,1.074,-0.602,-0.592,0.161,13,44
+2012,2012.24.2.18.1,Angelo Mathews,Doug Bollinger,32.841,1,1,y,8.416,0.152,-0.212,0.695,24,42
+2012,2012.24.2.18.2,Steve Smith,Doug Bollinger,37.794,0,0,y,4.970,-0.245,-0.479,0.706,63,77
+2012,2012.24.2.18.3,Angelo Mathews,Doug Bollinger,34.531,1,1,y,9.717,0.043,-0.436,1.122,74,64
+2012,2012.24.2.18.4,Bhuvneshwar Kumar,Doug Bollinger,37.232,1,1,y,1.853,-0.215,-0.293,0.202,32,38
+2012,2012.24.2.18.5,Angelo Mathews,Doug Bollinger,36.321,1,1,y,9.019,0.256,-0.012,0.997,86,42
+2012,2012.24.2.18.6,Bhuvneshwar Kumar,Doug Bollinger,37.917,0,0,y,0.005,-0.166,-0.166,0.035,18,42
+2012,2012.24.2.19.1,Angelo Mathews,Dwayne Bravo,35.367,0,0,y,-1.115,0.199,0.133,0.230,5,5
+2012,2012.24.2.19.2,Murali Kartik,Dwayne Bravo,35.807,1,1,y,2.534,0.146,0.265,0.275,67,39
+2012,2012.24.2.19.3,Bhuvneshwar Kumar,Dwayne Bravo,36.598,0,0,y,-3.152,0.492,0.278,0.531,5,5
+2012,2012.24.2.19.4,Murali Kartik,Dwayne Bravo,36.001,2,2,y,0.136,0.149,0.145,0.054,85,53
+2012,2012.24.2.19.5,Murali Kartik,Dwayne Bravo,37.112,1,1,y,2.823,0.019,-0.086,0.393,81,52
+2012,2012.24.2.19.6,Bhuvneshwar Kumar,Dwayne Bravo,37.615,0,1,y,11.831,-0.722,-1.014,1.190,5,5
+2012,2012.24.2.19.7,Bhuvneshwar Kumar,Dwayne Bravo,28.293,1,1,y,4.827,-0.223,-0.067,0.659,43,10

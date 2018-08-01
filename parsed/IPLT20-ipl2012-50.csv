@@ -1,0 +1,241 @@
+YEAR,INNINGS_OVER_BALL,BATSMAN,BOWLER,BOWL_SPEED,CREDIT,DEBIT,IS_RHB,PITCHED_X,PITCHED_Y,STUMPS_Y,STUMPS_Z,LANDING_X,LANDING_Y
+2012,2012.50.1.0.1,Daniel Harris,Zaheer Khan,39.043,1,1,y,5.749,0.069,-0.022,0.592,69,41
+2012,2012.50.1.0.2,Shikhar Dhawan,Zaheer Khan,37.113,4,4,y,7.642,0.084,-0.234,0.658,8,28
+2012,2012.50.1.0.3,Shikhar Dhawan,Zaheer Khan,36.771,0,0,y,7.250,0.716,0.763,0.823,69,33
+2012,2012.50.1.0.4,Shikhar Dhawan,Zaheer Khan,37.379,0,1,y,5.833,-0.144,-0.514,0.527,5,5
+2012,2012.50.1.0.5,Shikhar Dhawan,Zaheer Khan,37.308,4,4,y,7.892,0.449,0.128,1.036,36,8
+2012,2012.50.1.0.6,Shikhar Dhawan,Zaheer Khan,36.605,1,1,y,7.344,0.157,-0.204,0.857,18,20
+2012,2012.50.1.0.7,Daniel Harris,Zaheer Khan,37.276,0,0,y,6.887,0.026,-0.450,0.691,5,5
+2012,2012.50.1.1.1,Shikhar Dhawan,Abhimanyu Mithun,35.473,4,4,y,3.455,-0.201,-0.042,0.334,20,76
+2012,2012.50.1.1.2,Shikhar Dhawan,Abhimanyu Mithun,38.162,1,1,y,6.951,-0.109,0.328,0.742,64,13
+2012,2012.50.1.1.3,Daniel Harris,Abhimanyu Mithun,37.035,0,0,y,8.263,-0.436,-0.517,0.977,5,5
+2012,2012.50.1.1.4,Daniel Harris,Abhimanyu Mithun,37.733,4,4,y,7.701,-0.547,-0.642,0.859,9,51
+2012,2012.50.1.1.5,Daniel Harris,Abhimanyu Mithun,37.166,0,1,y,7.754,-0.181,0.414,0.780,5,5
+2012,2012.50.1.1.6,Daniel Harris,Abhimanyu Mithun,35.734,0,0,y,6.213,-0.474,-0.310,0.625,34,29
+2012,2012.50.1.1.7,Daniel Harris,Abhimanyu Mithun,36.627,1,1,y,8.194,-0.542,-0.281,0.836,54,59
+2012,2012.50.1.2.1,Daniel Harris,Zaheer Khan,37.483,0,0,y,6.947,0.067,-0.283,0.789,34,29
+2012,2012.50.1.2.2,Daniel Harris,Zaheer Khan,34.049,0,0,y,4.545,-0.131,-0.380,0.476,33,45
+2012,2012.50.1.2.3,Daniel Harris,Zaheer Khan,-1.000,0,0,y,11.250,0.050,-0.738,1.585,5,5
+2012,2012.50.1.2.4,Daniel Harris,Zaheer Khan,34.122,1,1,y,9.906,-0.453,-0.150,1.124,40,34
+2012,2012.50.1.2.5,Shikhar Dhawan,Zaheer Khan,34.555,0,0,y,7.471,0.510,0.510,0.788,68,28
+2012,2012.50.1.2.6,Shikhar Dhawan,Zaheer Khan,37.526,1,1,y,8.283,0.223,-0.029,0.643,59,34
+2012,2012.50.1.3.1,Shikhar Dhawan,Abhimanyu Mithun,37.940,0,0,y,5.426,0.257,0.674,0.584,66,39
+2012,2012.50.1.3.2,Shikhar Dhawan,Abhimanyu Mithun,37.250,1,1,y,9.124,0.042,0.754,0.914,65,51
+2012,2012.50.1.3.3,Daniel Harris,Abhimanyu Mithun,37.376,0,0,y,7.670,-0.129,0.279,0.747,5,5
+2012,2012.50.1.3.4,Shikhar Dhawan,Abhimanyu Mithun,36.349,4,4,y,8.697,-0.099,0.568,0.971,88,21
+2012,2012.50.1.3.5,Shikhar Dhawan,Abhimanyu Mithun,36.690,1,1,y,8.814,-0.074,0.329,0.894,66,39
+2012,2012.50.1.3.6,Daniel Harris,Abhimanyu Mithun,37.207,0,0,y,9.634,-0.323,-0.190,0.849,34,43
+2012,2012.50.1.4.1,Shikhar Dhawan,Zaheer Khan,38.552,1,1,y,12.923,0.469,-0.070,1.772,14,26
+2012,2012.50.1.4.2,Daniel Harris,Zaheer Khan,38.865,0,0,y,8.988,-0.267,0.231,0.934,52,38
+2012,2012.50.1.4.3,Daniel Harris,Zaheer Khan,33.658,0,0,y,8.039,-0.328,0.236,0.780,51,42
+2012,2012.50.1.4.4,Daniel Harris,Zaheer Khan,33.937,6,6,y,10.371,-0.610,-0.426,1.274,94,58
+2012,2012.50.1.4.5,Daniel Harris,Zaheer Khan,37.936,1,1,y,7.504,-0.150,0.351,0.750,94,37
+2012,2012.50.1.4.6,Shikhar Dhawan,Zaheer Khan,38.346,0,0,y,3.488,0.388,0.390,0.437,67,41
+2012,2012.50.1.5.1,Daniel Harris,Prasanth Parameswaran DUPLICATE,36.872,0,0,y,4.877,-0.130,-0.392,0.541,32,41
+2012,2012.50.1.5.2,Daniel Harris,Prasanth Parameswaran DUPLICATE,35.930,1,1,y,8.738,0.054,-0.347,0.844,33,30
+2012,2012.50.1.5.3,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,35.823,0,0,y,7.029,0.268,0.135,0.813,70,29
+2012,2012.50.1.5.4,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,32.980,4,4,y,7.922,0.205,-0.024,0.798,14,65
+2012,2012.50.1.5.5,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,36.389,1,1,y,8.949,0.263,0.017,1.074,13,42
+2012,2012.50.1.5.6,Daniel Harris,Prasanth Parameswaran DUPLICATE,36.582,1,1,y,8.481,-0.612,-0.509,1.048,27,13
+2012,2012.50.1.6.1,Daniel Harris,Muttiah Muralitharan,24.328,0,0,y,3.932,-0.669,-0.361,0.662,5,5
+2012,2012.50.1.6.2,Daniel Harris,Muttiah Muralitharan,22.935,0,0,y,3.725,-0.579,-0.408,0.782,50,28
+2012,2012.50.1.6.3,Daniel Harris,Muttiah Muralitharan,23.001,0,0,y,4.149,-0.437,-0.321,0.861,5,5
+2012,2012.50.1.6.4,Daniel Harris,Muttiah Muralitharan,25.741,1,1,y,5.047,-0.507,-0.136,0.521,39,39
+2012,2012.50.1.6.5,Shikhar Dhawan,Muttiah Muralitharan,24.785,1,1,y,5.749,0.264,0.573,0.970,85,29
+2012,2012.50.1.6.6,Daniel Harris,Muttiah Muralitharan,22.524,0,0,y,3.773,-0.674,-0.693,0.707,5,5
+2012,2012.50.1.7.1,Shikhar Dhawan,Tillakaratne Dilshan,24.666,1,1,y,3.691,0.396,0.455,0.492,81,52
+2012,2012.50.1.7.2,Daniel Harris,Tillakaratne Dilshan,24.452,6,6,y,4.965,-0.224,0.075,0.711,91,68
+2012,2012.50.1.7.3,Daniel Harris,Tillakaratne Dilshan,27.689,4,4,y,5.550,0.393,0.275,0.677,80,14
+2012,2012.50.1.7.4,Daniel Harris,Tillakaratne Dilshan,25.510,6,6,y,3.574,-0.129,-0.216,0.579,81,87
+2012,2012.50.1.7.5,Daniel Harris,Tillakaratne Dilshan,27.041,0,0,y,6.276,0.237,-0.010,0.712,68,43
+2012,2012.50.1.7.6,Daniel Harris,Tillakaratne Dilshan,26.752,0,0,y,5.399,-0.082,-0.369,0.627,5,5
+2012,2012.50.1.8.1,Shikhar Dhawan,Muttiah Muralitharan,24.972,1,1,y,3.904,-0.120,-0.120,0.785,18,41
+2012,2012.50.1.8.2,Daniel Harris,Muttiah Muralitharan,23.315,0,0,y,2.620,-0.289,-0.248,0.543,49,42
+2012,2012.50.1.8.3,Daniel Harris,Muttiah Muralitharan,23.096,1,1,y,4.026,-0.467,-0.405,0.568,87,53
+2012,2012.50.1.8.4,Shikhar Dhawan,Muttiah Muralitharan,24.826,1,1,y,3.798,0.149,0.354,0.680,68,73
+2012,2012.50.1.8.5,Daniel Harris,Muttiah Muralitharan,22.521,0,0,y,3.327,-0.289,-0.182,0.671,5,5
+2012,2012.50.1.8.6,Daniel Harris,Muttiah Muralitharan,25.637,1,1,y,2.636,-0.570,-0.238,0.665,61,74
+2012,2012.50.1.9.1,Daniel Harris,Syed Mohammad,24.604,1,1,y,7.052,-0.336,0.165,0.745,66,72
+2012,2012.50.1.9.2,Shikhar Dhawan,Syed Mohammad,25.284,2,2,y,6.097,-0.206,0.191,0.647,84,25
+2012,2012.50.1.9.3,Shikhar Dhawan,Syed Mohammad,25.104,1,1,y,7.021,0.085,0.830,0.827,72,70
+2012,2012.50.1.9.4,Daniel Harris,Syed Mohammad,25.804,1,1,y,5.458,-0.314,-0.079,0.511,20,51
+2012,2012.50.1.9.5,Shikhar Dhawan,Syed Mohammad,25.756,0,0,y,5.997,0.045,0.554,0.728,5,5
+2012,2012.50.1.9.6,Shikhar Dhawan,Syed Mohammad,27.083,0,0,y,7.239,-0.199,0.393,0.696,68,40
+2012,2012.50.1.10.1,Daniel Harris,Muttiah Muralitharan,23.113,1,1,y,2.581,-0.563,-0.236,0.735,74,70
+2012,2012.50.1.10.2,Shikhar Dhawan,Muttiah Muralitharan,25.465,0,0,y,5.229,-0.097,-0.208,0.624,50,40
+2012,2012.50.1.10.3,Shikhar Dhawan,Muttiah Muralitharan,24.123,1,1,y,4.012,0.216,0.425,0.667,65,80
+2012,2012.50.1.10.4,Daniel Harris,Muttiah Muralitharan,24.944,0,0,y,5.089,-0.355,0.217,0.783,55,36
+2012,2012.50.1.10.5,Daniel Harris,Muttiah Muralitharan,25.971,1,1,y,5.481,-0.585,-0.172,0.704,18,28
+2012,2012.50.1.10.6,Shikhar Dhawan,Muttiah Muralitharan,23.034,0,0,y,6.079,0.074,0.052,0.731,49,44
+2012,2012.50.1.11.1,Daniel Harris,Syed Mohammad,25.232,6,6,y,4.495,-0.057,0.335,0.614,96,43
+2012,2012.50.1.11.2,Daniel Harris,Syed Mohammad,25.933,1,1,y,6.340,-0.355,0.079,0.574,67,80
+2012,2012.50.1.11.3,Shikhar Dhawan,Syed Mohammad,25.211,1,1,y,8.687,-0.360,0.313,0.560,60,23
+2012,2012.50.1.11.4,Daniel Harris,Syed Mohammad,26.535,1,1,y,2.640,-0.634,-0.637,0.480,42,83
+2012,2012.50.1.11.5,Shikhar Dhawan,Syed Mohammad,26.454,0,0,y,7.831,-0.197,0.359,0.558,0,0
+2012,2012.50.1.11.6,Shikhar Dhawan,Syed Mohammad,26.749,1,1,y,5.094,-0.141,0.160,0.544,38,80
+2012,2012.50.1.12.1,Shikhar Dhawan,Chris Gayle,26.107,0,0,y,1.430,0.391,0.316,0.309,56,20
+2012,2012.50.1.12.2,Shikhar Dhawan,Chris Gayle,30.160,0,0,y,3.278,0.372,0.176,0.524,67,41
+2012,2012.50.1.12.3,Shikhar Dhawan,Chris Gayle,30.213,1,1,y,1.544,0.031,-0.081,0.281,35,80
+2012,2012.50.1.12.4,Cameron White,Chris Gayle,27.715,0,0,y,4.687,-0.309,-0.235,0.776,34,43
+2012,2012.50.1.12.5,Cameron White,Chris Gayle,30.379,1,1,y,4.363,-0.006,0.217,0.565,84,32
+2012,2012.50.1.12.6,Shikhar Dhawan,Chris Gayle,29.673,4,4,y,3.314,0.022,-0.181,0.511,58,7
+2012,2012.50.1.13.1,Cameron White,Syed Mohammad,24.890,1,1,y,5.475,-0.055,0.371,0.565,85,28
+2012,2012.50.1.13.2,Shikhar Dhawan,Syed Mohammad,26.153,1,1,y,6.994,-0.298,0.261,0.751,14,26
+2012,2012.50.1.13.3,Cameron White,Syed Mohammad,25.769,6,6,y,4.660,-0.637,-0.494,0.666,76,93
+2012,2012.50.1.13.4,Cameron White,Syed Mohammad,25.098,2,2,y,8.188,-0.300,0.286,0.686,85,53
+2012,2012.50.1.13.5,Cameron White,Syed Mohammad,24.766,0,0,y,5.882,-0.196,0.077,0.631,50,41
+2012,2012.50.1.13.6,Cameron White,Syed Mohammad,25.175,2,2,y,7.085,-0.341,0.014,0.625,68,68
+2012,2012.50.1.14.1,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,37.103,0,0,y,8.566,0.358,0.128,0.785,5,5
+2012,2012.50.1.14.2,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,36.695,4,4,y,8.704,0.466,0.415,0.981,90,23
+2012,2012.50.1.14.3,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,36.793,4,4,y,10.726,0.281,0.082,1.250,14,70
+2012,2012.50.1.14.4,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,32.107,1,1,y,9.565,0.280,-0.297,0.728,34,25
+2012,2012.50.1.14.5,Cameron White,Prasanth Parameswaran DUPLICATE,37.660,2,2,y,11.506,0.309,-0.273,1.397,81,51
+2012,2012.50.1.14.6,Cameron White,Prasanth Parameswaran DUPLICATE,35.402,1,1,y,9.168,0.128,-0.305,1.069,38,24
+2012,2012.50.1.15.1,Cameron White,Muttiah Muralitharan,24.822,2,2,y,4.110,-0.361,0.141,0.763,69,12
+2012,2012.50.1.15.2,Cameron White,Muttiah Muralitharan,25.181,0,0,y,4.078,-0.291,0.212,0.700,5,5
+2012,2012.50.1.15.3,Cameron White,Muttiah Muralitharan,25.732,1,1,y,3.143,-0.370,0.006,0.664,80,53
+2012,2012.50.1.15.4,Shikhar Dhawan,Muttiah Muralitharan,25.857,4,4,y,4.553,0.278,0.353,0.573,90,58
+2012,2012.50.1.15.5,Shikhar Dhawan,Muttiah Muralitharan,25.818,1,1,y,5.720,0.096,0.027,0.680,63,39
+2012,2012.50.1.15.6,Cameron White,Muttiah Muralitharan,23.030,1,1,y,2.704,-0.545,-0.463,0.659,17,44
+2012,2012.50.1.16.1,Cameron White,Abhimanyu Mithun,35.518,0,0,y,13.381,-0.553,-0.299,1.931,5,5
+2012,2012.50.1.16.2,Cameron White,Abhimanyu Mithun,37.808,1,1,y,1.524,-0.506,-0.471,0.210,12,33
+2012,2012.50.1.16.3,Shikhar Dhawan,Abhimanyu Mithun,30.516,1,1,y,2.643,0.306,0.512,0.488,67,13
+2012,2012.50.1.16.4,Cameron White,Abhimanyu Mithun,38.104,6,6,y,5.016,-0.018,0.162,0.527,90,75
+2012,2012.50.1.16.5,Cameron White,Abhimanyu Mithun,35.362,4,4,y,9.512,-0.172,0.219,1.039,92,54
+2012,2012.50.1.16.6,Cameron White,Abhimanyu Mithun,37.162,4,4,y,3.353,-0.564,-0.732,0.391,13,63
+2012,2012.50.1.17.1,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,35.920,4,4,y,9.445,-0.291,0.167,0.948,42,7
+2012,2012.50.1.17.2,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,33.176,2,2,y,7.783,0.104,0.692,0.794,22,65
+2012,2012.50.1.17.3,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,34.835,6,6,y,8.062,-0.149,0.245,0.758,10,20
+2012,2012.50.1.17.4,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,37.533,0,0,y,7.838,0.546,0.534,0.903,5,5
+2012,2012.50.1.17.5,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,35.473,1,1,y,9.894,0.505,0.231,1.121,68,48
+2012,2012.50.1.17.6,Cameron White,Prasanth Parameswaran DUPLICATE,31.671,1,1,y,7.478,0.263,-0.051,0.767,39,77
+2012,2012.50.1.18.1,Cameron White,Zaheer Khan,34.938,2,2,y,-0.674,-0.039,-0.014,0.145,84,57
+2012,2012.50.1.18.2,Cameron White,Zaheer Khan,38.696,1,1,y,1.336,-0.046,-0.106,0.177,32,34
+2012,2012.50.1.18.3,Shikhar Dhawan,Zaheer Khan,38.284,1,1,y,3.989,0.236,0.128,0.434,65,40
+2012,2012.50.1.18.4,Cameron White,Zaheer Khan,34.015,6,6,y,9.893,0.191,-0.404,0.800,83,84
+2012,2012.50.1.18.5,Cameron White,Zaheer Khan,38.119,1,1,y,-2.494,0.223,0.284,0.404,84,55
+2012,2012.50.1.18.6,Shikhar Dhawan,Zaheer Khan,38.181,0,0,y,3.628,0.195,0.122,0.410,52,42
+2012,2012.50.1.19.1,Cameron White,Prasanth Parameswaran DUPLICATE,36.352,0,1,y,4.287,-1.021,-1.137,0.535,5,5
+2012,2012.50.1.19.2,Cameron White,Prasanth Parameswaran DUPLICATE,36.053,0,0,y,10.523,-0.468,-0.207,1.136,53,44
+2012,2012.50.1.19.3,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,37.451,1,1,y,9.021,0.632,0.643,0.848,13,36
+2012,2012.50.1.19.4,Kumar Sangakkara,Prasanth Parameswaran DUPLICATE,32.238,4,4,y,8.125,0.647,0.577,0.785,80,76
+2012,2012.50.1.19.5,Kumar Sangakkara,Prasanth Parameswaran DUPLICATE,36.781,0,0,y,4.960,0.667,0.645,0.587,5,5
+2012,2012.50.1.19.6,Shikhar Dhawan,Prasanth Parameswaran DUPLICATE,36.758,0,0,y,10.844,0.707,0.765,1.390,5,5
+2012,2012.50.1.19.7,Kumar Sangakkara,Prasanth Parameswaran DUPLICATE,36.519,6,6,y,7.240,0.382,0.183,0.814,24,88
+2012,2012.50.2.0.1,Tillakaratne Dilshan,Shikhar Dhawan,24.541,0,0,y,3.554,0.192,0.431,0.475,42,28
+2012,2012.50.2.0.2,Tillakaratne Dilshan,Shikhar Dhawan,25.434,1,1,y,5.980,-0.308,-0.043,0.742,84,55
+2012,2012.50.2.0.3,Chris Gayle,Shikhar Dhawan,23.386,1,1,y,4.228,0.241,0.389,0.621,75,68
+2012,2012.50.2.0.4,Tillakaratne Dilshan,Shikhar Dhawan,23.477,4,4,y,5.980,-0.239,0.040,0.771,92,28
+2012,2012.50.2.0.5,Tillakaratne Dilshan,Shikhar Dhawan,25.081,4,4,y,5.362,-0.341,-0.224,0.699,93,29
+2012,2012.50.2.0.6,Tillakaratne Dilshan,Shikhar Dhawan,25.064,1,1,y,4.082,-0.282,-0.232,0.706,90,29
+2012,2012.50.2.1.1,Tillakaratne Dilshan,Dale Steyn,38.641,0,0,y,6.425,-0.090,-0.015,0.692,62,61
+2012,2012.50.2.1.2,Tillakaratne Dilshan,Dale Steyn,38.700,2,2,y,9.143,-0.169,0.012,0.953,87,28
+2012,2012.50.2.1.3,Tillakaratne Dilshan,Dale Steyn,40.407,0,0,y,10.139,-0.169,-0.069,0.873,5,5
+2012,2012.50.2.1.4,Tillakaratne Dilshan,Dale Steyn,38.552,4,4,y,10.139,-0.169,-0.069,0.873,88,20
+2012,2012.50.2.1.5,Tillakaratne Dilshan,Dale Steyn,40.122,0,0,y,8.223,-0.276,-0.141,0.849,53,46
+2012,2012.50.2.1.6,Tillakaratne Dilshan,Dale Steyn,39.549,1,1,y,9.351,-0.383,-0.249,0.968,87,46
+2012,2012.50.2.2.1,Tillakaratne Dilshan,Veer Pratap Singh,37.214,1,1,y,4.401,0.021,0.279,0.433,55,51
+2012,2012.50.2.2.2,Chris Gayle,Veer Pratap Singh,37.403,1,1,y,7.051,-0.109,0.258,0.804,62,34
+2012,2012.50.2.2.3,Tillakaratne Dilshan,Veer Pratap Singh,39.063,1,1,y,4.979,-0.217,-0.127,0.485,48,66
+2012,2012.50.2.2.4,Chris Gayle,Veer Pratap Singh,38.437,1,1,y,7.695,-0.170,0.017,0.806,34,46
+2012,2012.50.2.2.5,Tillakaratne Dilshan,Veer Pratap Singh,38.750,4,4,y,7.561,-0.321,-0.131,0.621,16,67
+2012,2012.50.2.2.6,Tillakaratne Dilshan,Veer Pratap Singh,37.684,0,0,y,8.205,-0.385,-0.320,0.874,32,44
+2012,2012.50.2.3.1,Chris Gayle,Dale Steyn,41.001,0,0,y,8.003,-0.121,-0.016,0.886,70,30
+2012,2012.50.2.3.2,Chris Gayle,Dale Steyn,40.834,0,0,y,10.873,-0.131,0.154,1.600,66,29
+2012,2012.50.2.3.3,Chris Gayle,Dale Steyn,41.372,0,0,y,8.654,-0.008,0.266,1.006,5,5
+2012,2012.50.2.3.4,Chris Gayle,Dale Steyn,39.757,0,0,y,11.771,-0.227,-0.043,1.703,5,5
+2012,2012.50.2.3.5,Chris Gayle,Dale Steyn,35.565,0,0,y,12.314,-0.275,0.078,1.665,5,5
+2012,2012.50.2.3.6,Chris Gayle,Dale Steyn,40.858,0,0,y,12.171,-0.222,0.053,1.565,5,5
+2012,2012.50.2.4.1,Tillakaratne Dilshan,Veer Pratap Singh,38.999,1,1,y,3.379,-0.107,-0.039,0.376,58,63
+2012,2012.50.2.4.2,Chris Gayle,Veer Pratap Singh,38.323,1,1,y,9.438,-0.142,0.242,0.976,46,78
+2012,2012.50.2.4.3,Tillakaratne Dilshan,Veer Pratap Singh,38.562,6,6,y,7.371,-0.213,0.015,0.744,46,94
+2012,2012.50.2.4.4,Tillakaratne Dilshan,Veer Pratap Singh,37.370,0,0,y,9.353,-0.331,-0.220,1.119,38,25
+2012,2012.50.2.4.5,Tillakaratne Dilshan,Veer Pratap Singh,38.393,0,0,y,7.645,-0.121,0.278,0.770,5,5
+2012,2012.50.2.4.6,Chris Gayle,Veer Pratap Singh,37.865,1,1,y,7.820,0.040,0.577,0.729,88,29
+2012,2012.50.2.5.1,Chris Gayle,Anand Rajan,34.554,1,1,y,8.766,0.130,0.661,0.896,82,27
+2012,2012.50.2.5.2,Tillakaratne Dilshan,Anand Rajan,35.555,4,4,y,9.814,-0.133,0.437,1.162,58,7
+2012,2012.50.2.5.3,Tillakaratne Dilshan,Anand Rajan,34.914,1,1,y,10.864,-0.204,0.271,1.425,83,25
+2012,2012.50.2.5.4,Chris Gayle,Anand Rajan,34.700,0,0,y,8.538,0.143,0.803,0.984,35,47
+2012,2012.50.2.5.5,Chris Gayle,Anand Rajan,34.442,0,0,y,5.169,0.251,0.570,0.549,5,5
+2012,2012.50.2.5.6,Chris Gayle,Anand Rajan,36.299,4,4,y,5.290,-0.329,-0.255,0.584,27,11
+2012,2012.50.2.6.1,Tillakaratne Dilshan,Ashish Reddy,33.698,0,0,y,6.642,-0.039,0.246,0.710,66,46
+2012,2012.50.2.6.2,Tillakaratne Dilshan,Ashish Reddy,33.242,0,0,y,8.150,-0.629,-0.692,0.727,48,27
+2012,2012.50.2.6.3,Tillakaratne Dilshan,Ashish Reddy,34.185,0,0,y,9.527,-0.322,0.019,1.093,50,42
+2012,2012.50.2.6.4,Tillakaratne Dilshan,Ashish Reddy,34.420,4,4,y,6.182,-0.133,0.081,0.650,28,86
+2012,2012.50.2.6.5,Tillakaratne Dilshan,Ashish Reddy,35.021,6,6,y,8.532,-0.351,0.006,0.808,95,24
+2012,2012.50.2.6.6,Tillakaratne Dilshan,Ashish Reddy,26.639,0,0,y,6.627,-0.451,-0.365,0.741,35,26
+2012,2012.50.2.7.1,Chris Gayle,Amit Mishra,23.152,1,1,y,5.173,-0.107,-0.034,0.505,17,34
+2012,2012.50.2.7.2,Tillakaratne Dilshan,Amit Mishra,22.654,2,2,y,5.753,-0.579,-1.173,0.595,14,25
+2012,2012.50.2.7.3,Tillakaratne Dilshan,Amit Mishra,23.867,4,4,y,7.286,-0.341,-0.435,0.793,92,57
+2012,2012.50.2.7.4,Tillakaratne Dilshan,Amit Mishra,23.989,1,1,y,5.437,-0.132,-0.052,0.663,89,49
+2012,2012.50.2.7.5,Chris Gayle,Amit Mishra,21.763,1,1,y,5.989,-0.068,0.359,0.761,70,79
+2012,2012.50.2.7.6,Tillakaratne Dilshan,Amit Mishra,23.779,1,1,y,5.893,-0.282,-0.175,0.556,18,27
+2012,2012.50.2.8.1,Tillakaratne Dilshan,Ashish Reddy,26.473,1,1,y,6.607,-0.391,-0.253,0.813,32,31
+2012,2012.50.2.8.2,Chris Gayle,Ashish Reddy,33.824,1,1,y,3.705,0.380,0.634,0.398,67,12
+2012,2012.50.2.8.3,Tillakaratne Dilshan,Ashish Reddy,27.138,0,1,y,6.950,-0.827,-0.889,0.909,5,5
+2012,2012.50.2.8.4,Tillakaratne Dilshan,Ashish Reddy,26.048,0,0,y,5.780,-0.660,-0.650,0.610,37,28
+2012,2012.50.2.8.5,Tillakaratne Dilshan,Ashish Reddy,25.865,0,0,y,6.016,-0.752,-0.758,0.662,5,5
+2012,2012.50.2.8.6,Tillakaratne Dilshan,Ashish Reddy,23.416,2,2,y,7.873,-0.544,-0.530,0.734,15,24
+2012,2012.50.2.8.7,Tillakaratne Dilshan,Ashish Reddy,29.628,3,3,y,5.586,-0.883,-1.011,0.740,12,25
+2012,2012.50.2.9.1,Tillakaratne Dilshan,Amit Mishra,22.902,0,0,y,3.151,-0.097,-0.209,0.504,32,45
+2012,2012.50.2.9.2,Tillakaratne Dilshan,Amit Mishra,23.608,0,0,y,6.058,-0.137,-0.115,0.613,31,30
+2012,2012.50.2.9.3,Tillakaratne Dilshan,Amit Mishra,23.921,1,1,y,5.755,-0.132,-0.167,0.662,63,71
+2012,2012.50.2.9.4,Chris Gayle,Amit Mishra,23.126,1,1,y,6.643,-0.139,0.003,0.701,26,70
+2012,2012.50.2.9.5,Tillakaratne Dilshan,Amit Mishra,24.797,1,1,y,6.608,-0.300,-0.368,0.408,18,26
+2012,2012.50.2.9.6,Chris Gayle,Amit Mishra,22.695,6,6,y,4.342,0.243,-0.085,0.724,12,68
+2012,2012.50.2.10.1,Tillakaratne Dilshan,Anand Rajan,37.096,0,0,y,9.838,-0.516,-0.545,1.055,5,5
+2012,2012.50.2.10.2,Tillakaratne Dilshan,Anand Rajan,36.523,1,1,y,7.779,-0.240,-0.088,0.849,45,61
+2012,2012.50.2.10.3,Chris Gayle,Anand Rajan,32.171,0,1,y,5.913,-0.594,-0.613,0.582,5,5
+2012,2012.50.2.10.4,Chris Gayle,Anand Rajan,34.997,6,6,y,7.087,-0.059,0.238,0.796,32,93
+2012,2012.50.2.10.5,Chris Gayle,Anand Rajan,37.250,0,0,y,2.138,0.005,0.052,0.318,0,0
+2012,2012.50.2.10.6,Virat Kohli,Anand Rajan,36.490,2,2,y,7.703,-0.000,0.241,0.822,87,28
+2012,2012.50.2.10.7,Virat Kohli,Anand Rajan,35.617,0,0,y,7.881,-0.627,-0.700,0.924,5,5
+2012,2012.50.2.11.1,Tillakaratne Dilshan,Amit Mishra,22.178,0,0,y,5.427,-0.492,-0.337,0.877,5,5
+2012,2012.50.2.11.2,Tillakaratne Dilshan,Amit Mishra,23.797,1,1,y,3.767,-0.301,-0.446,0.578,16,57
+2012,2012.50.2.11.3,Virat Kohli,Amit Mishra,24.928,1,1,y,4.191,-0.364,-0.341,0.523,32,77
+2012,2012.50.2.11.4,Tillakaratne Dilshan,Amit Mishra,23.894,1,1,y,3.982,-0.162,-0.464,0.738,42,23
+2012,2012.50.2.11.5,Virat Kohli,Amit Mishra,25.091,1,1,y,5.760,-0.255,-0.147,0.515,60,84
+2012,2012.50.2.11.6,Tillakaratne Dilshan,Amit Mishra,24.473,0,0,y,4.881,-0.288,-0.499,0.671,5,5
+2012,2012.50.2.12.1,Virat Kohli,Ashish Reddy,33.034,0,0,y,8.563,-0.363,-0.337,0.896,5,5
+2012,2012.50.2.12.2,Virat Kohli,Ashish Reddy,26.133,0,0,y,7.934,-0.702,-0.781,0.619,5,5
+2012,2012.50.2.12.3,Virat Kohli,Ashish Reddy,34.222,4,4,y,9.716,-0.319,0.204,0.959,93,29
+2012,2012.50.2.12.4,Virat Kohli,Ashish Reddy,34.849,1,1,y,7.121,-0.849,-0.901,0.685,14,30
+2012,2012.50.2.12.5,Tillakaratne Dilshan,Ashish Reddy,26.785,0,0,y,5.832,-0.410,-0.321,0.493,33,25
+2012,2012.50.2.12.6,Tillakaratne Dilshan,Ashish Reddy,27.020,0,0,y,6.123,-0.327,-0.081,0.845,30,29
+2012,2012.50.2.13.1,Virat Kohli,Amit Mishra,24.056,0,0,y,4.640,-0.483,-0.582,0.535,0,0
+2012,2012.50.2.13.2,Asad Pathan,Amit Mishra,25.354,2,2,y,4.327,-0.348,-0.325,0.496,14,37
+2012,2012.50.2.13.3,Asad Pathan,Amit Mishra,22.364,2,2,y,6.344,-0.293,-0.801,0.754,34,43
+2012,2012.50.2.13.4,Asad Pathan,Amit Mishra,23.945,0,0,y,6.358,-0.422,-0.047,0.796,56,39
+2012,2012.50.2.13.5,Asad Pathan,Amit Mishra,21.974,0,0,y,4.249,-0.316,-0.761,0.773,0,0
+2012,2012.50.2.13.6,Tillakaratne Dilshan,Amit Mishra,23.428,1,1,y,3.054,-0.601,-0.414,0.680,31,43
+2012,2012.50.2.14.1,Tillakaratne Dilshan,Anand Rajan,35.788,0,0,y,5.378,0.085,0.326,0.630,5,5
+2012,2012.50.2.14.2,AB de Villiers,Anand Rajan,37.361,1,1,y,8.720,-0.247,0.048,0.814,70,38
+2012,2012.50.2.14.3,Tillakaratne Dilshan,Anand Rajan,36.794,1,1,y,-2.888,-0.008,-0.075,0.518,32,43
+2012,2012.50.2.14.4,AB de Villiers,Anand Rajan,36.751,1,1,y,8.793,-0.283,-0.024,0.801,64,78
+2012,2012.50.2.14.5,Tillakaratne Dilshan,Anand Rajan,36.589,0,1,y,6.071,-0.994,-1.213,0.746,5,5
+2012,2012.50.2.14.6,Tillakaratne Dilshan,Anand Rajan,29.641,1,1,y,7.840,-0.400,-0.286,0.787,38,25
+2012,2012.50.2.14.7,AB de Villiers,Anand Rajan,36.133,0,0,y,6.467,-0.328,-0.326,0.712,33,45
+2012,2012.50.2.15.1,Tillakaratne Dilshan,Veer Pratap Singh,36.648,4,4,y,0.197,0.212,0.223,0.054,94,30
+2012,2012.50.2.15.2,Tillakaratne Dilshan,Veer Pratap Singh,36.981,0,0,y,5.932,-0.196,0.084,0.503,0,0
+2012,2012.50.2.15.3,Mayank Agarwal,Veer Pratap Singh,36.789,0,1,y,11.272,-0.648,-1.041,1.105,5,5
+2012,2012.50.2.15.4,Mayank Agarwal,Veer Pratap Singh,38.228,1,1,y,8.403,-0.334,-0.028,0.765,60,84
+2012,2012.50.2.15.5,AB de Villiers,Veer Pratap Singh,36.946,1,1,y,9.944,-0.254,0.167,1.166,34,43
+2012,2012.50.2.15.6,Mayank Agarwal,Veer Pratap Singh,36.790,6,6,y,6.607,-0.077,0.235,0.645,36,93
+2012,2012.50.2.15.7,Mayank Agarwal,Veer Pratap Singh,37.151,4,4,y,5.206,0.035,0.265,0.536,86,65
+2012,2012.50.2.16.1,AB de Villiers,Ashish Reddy,26.892,4,4,y,4.191,-0.363,-0.238,0.572,20,14
+2012,2012.50.2.16.2,AB de Villiers,Ashish Reddy,29.450,1,1,y,4.763,-0.217,-0.045,0.588,52,25
+2012,2012.50.2.16.3,Mayank Agarwal,Ashish Reddy,34.207,6,6,y,5.336,-0.577,-0.491,0.539,14,74
+2012,2012.50.2.16.4,Mayank Agarwal,Ashish Reddy,27.048,1,1,y,5.725,-0.716,-0.850,0.833,15,28
+2012,2012.50.2.16.5,AB de Villiers,Ashish Reddy,26.289,1,1,y,4.296,-0.390,-0.343,0.537,34,83
+2012,2012.50.2.16.6,Mayank Agarwal,Ashish Reddy,26.989,0,0,y,4.488,-0.019,0.173,0.596,0,0
+2012,2012.50.2.17.1,AB de Villiers,Dale Steyn,40.929,6,6,y,9.465,-0.330,-0.281,0.998,87,72
+2012,2012.50.2.17.2,AB de Villiers,Dale Steyn,40.203,2,2,y,2.300,0.057,0.106,0.262,92,27
+2012,2012.50.2.17.3,AB de Villiers,Dale Steyn,32.901,4,4,y,5.507,-0.092,0.040,0.513,81,73
+2012,2012.50.2.17.4,AB de Villiers,Dale Steyn,40.585,6,6,y,3.199,0.003,0.079,0.387,13,80
+2012,2012.50.2.17.5,AB de Villiers,Dale Steyn,39.489,4,4,y,4.377,-0.468,-0.478,0.489,88,22
+2012,2012.50.2.17.6,AB de Villiers,Dale Steyn,39.563,1,1,y,10.873,-0.325,-0.313,1.380,34,31
+2012,2012.50.2.18.1,AB de Villiers,Anand Rajan,36.990,4,4,y,4.871,-0.399,-0.358,0.563,14,65
+2012,2012.50.2.18.2,AB de Villiers,Anand Rajan,31.110,4,4,y,7.587,-0.282,-0.047,0.925,58,94
+2012,2012.50.2.18.3,AB de Villiers,Anand Rajan,37.392,6,6,y,10.728,-0.350,0.021,1.292,93,68
+2012,2012.50.2.18.4,AB de Villiers,Anand Rajan,35.010,1,1,y,5.148,-0.373,-0.305,0.507,14,45
+2012,2012.50.2.18.5,Syed Mohammad,Anand Rajan,34.863,4,4,y,8.024,-0.072,0.340,0.584,17,73
