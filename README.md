@@ -12,7 +12,7 @@ Motivation is from a cricinfo [article](http://www.espncricinfo.com/story/_/id/1
 - Pitchmap generation and interpolation is using ArcGIS.
 - Topological Analysis is using [TTK](https://topology-tool-kit.github.io/)
 - Earthmover's distance is using [PyEMD](https://github.com/wmayner/pyemd)
-- Bottleneck/Wasserstein distances are using [TDA] (http://www.win.tue.nl/SoCG2015/wp-content/uploads/tutorials/150623_presentation_2.pdf)
+- Bottleneck/Wasserstein distances are using [TDA](http://www.win.tue.nl/SoCG2015/wp-content/uploads/tutorials/150623_presentation_2.pdf)
 - Fitting a curve to histogram is using [astropy] (http://www.astropy.org/)
 - Heatmap visualization inspired from [here](http://www.racketracer.com/2015/05/12/analytics-of-optimal-2-for-1-strategy-in-nba-basketball/)
 
