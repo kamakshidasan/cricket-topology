@@ -5,7 +5,7 @@ This repository contains scripts and data that was used for the work:  [Spatial 
 - If you are a cricket enthusiast: This repository has all the scripts to retrieve and parse cricket pitchmaps from ball trajectories for any match. 
 - If you are a topology enthusiast:  Head [here](https://github.com/kamakshidasan/irrelevant/tree/master/scripts). I showcase the scripts that I use to run batch processes in TTK.
 
-Motivation is from [this](http://www.espncricinfo.com/story/_/id/18411329/why-cricket-proper-metrics-fielding) ESPN article
+Motivation is from a cricinfo [article](http://www.espncricinfo.com/story/_/id/18411329/why-cricket-proper-metrics-fielding)
 
 - Schedules are scrapped from ICC, Ball Trajectories from IPL.
 - Trajectory parsing is using Pulse.
